@@ -1,0 +1,43 @@
+{
+  "number": 113,
+  "name": "الفلق",
+  "name_latin": "Al-Falaq",
+  "name_id": "Al-Falaq",
+  "name_trans_id": "Fajar",
+  "number_of_verse": 5,
+  "category": "Madaniyah",
+  "arabics": {
+    "1": "قُلْ اَعُوْذُ بِرَبِّ الْفَلَقِۙ",
+    "2": "مِنْ شَرِّ مَا خَلَقَۙ",
+    "3": "وَمِنْ شَرِّ غَاسِقٍ اِذَا وَقَبَۙ",
+    "4": "وَمِنْ شَرِّ النَّفّٰثٰتِ فِى الْعُقَدِۙ",
+    "5": "وَمِنْ شَرِّ حَاسِدٍ اِذَا حَسَدَ ࣖ"
+  },
+  "latins": {
+    "1": "Qul a'ūżu birabbil-falaq(i).",
+    "2": "Min syarri mā khalaq(a).",
+    "3": "Wa min syarri gāsiqin iżā waqab(a).",
+    "4": "Wa min syarrin-naffāṡāti fil-'uqad(i).",
+    "5": "Wa min syarri ḥāsidin iżā ḥasad(a)."
+  },
+  "translations": {
+    "id": {
+      "1": "Katakanlah (Nabi Muhammad), “Aku berlindung kepada Tuhan yang (menjaga) fajar (subuh)",
+      "2": "dari kejahatan (makhluk yang) Dia ciptakan,",
+      "3": "dari kejahatan malam apabila telah gelap gulita,",
+      "4": "dari kejahatan perempuan-perempuan (penyihir) yang meniup pada buhul-buhul (talinya),",
+      "5": "dan dari kejahatan orang yang dengki apabila dia dengki.”"
+    }
+  },
+  "tafsirs": {
+    "id": {
+      "kemenag": {
+        "1": "Wahai Nabi Muhammad, katakanlah kepada umatmu, “Aku berlindung kepada Tuhan yang menguasai subuh, waktu yang membelah kegelapan malam. Allah Mahakuasa menyingkirkan segala kejahatan dari hamba-Nya karena semua makhluk berada dalam genggaman-Nya.",
+        "2": "Aku berlindung kepada Allah dari kejahatan semua makhluk yang Dia ciptakan, baik yang tampak maupun tidak, yang tidak dapat menolak kejahatannya selain Sang Pencipta.",
+        "3": "Dan aku berlindung pula dari kejahatan malam apabila telah gelap gulita pada waktu malam muncul hewan-hewan yang membahayakan dan pada waktu itu pula rencana jahat biasa disusun.",
+        "4": "Dan aku berlindung pula dari kejahatan perempuan-perempuan penyihir yang meniup pada buhul-buhul dengan rapalan-rapalan yang dilafalkannya. Mereka bekerja sama dengan setan untuk menimpakan keburukan kepada orang yang di sihir melalui cara cara tertentu, di antaranya dengan meniup buhul-buhul.",
+        "5": "Dan aku berlindung pula dari kejahatan orang yang dengki apabila dia dengki, yang selalu menginginkan hilangnya kenikmatan dari orang lain.”"
+      }
+    }
+  }
+}

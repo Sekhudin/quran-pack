@@ -1,0 +1,35 @@
+{
+  "number": 108,
+  "name": "الكوثر",
+  "name_latin": "Al-Kauṡar",
+  "name_id": "Al-Kausar",
+  "name_trans_id": "Nikmat Yang Banyak",
+  "number_of_verse": 3,
+  "category": "Makkiyah",
+  "arabics": {
+    "1": "اِنَّآ اَعْطَيْنٰكَ الْكَوْثَرَۗ",
+    "2": "فَصَلِّ لِرَبِّكَ وَانْحَرْۗ",
+    "3": "اِنَّ شَانِئَكَ هُوَ الْاَبْتَرُ ࣖ"
+  },
+  "latins": {
+    "1": "Innā a'ṭainākal-kauṡar(a).",
+    "2": "Faṣalli lirabbika wanḥar.",
+    "3": "Inna syāni'aka huwal-abtar(u)."
+  },
+  "translations": {
+    "id": {
+      "1": "Sesungguhnya Kami telah memberimu (Nabi Muhammad) nikmat yang banyak.",
+      "2": "Maka, laksanakanlah salat karena Tuhanmu dan berkurbanlah!",
+      "3": "Sesungguhnya orang yang membencimu, dialah yang terputus (dari rahmat Allah)."
+    }
+  },
+  "tafsirs": {
+    "id": {
+      "kemenag": {
+        "1": "Wahai Nabi Muhammad, sungguh Kami telah memberimu nikmat yang banyak dan langgeng, meliputi kenikmatan duniawi maupun ukhrawi, seperti kenabian, Al-Qur’an, syafaat, telaga di surga, dan sebagainya.",
+        "2": "Karena itu, sebagai rasa syukurmu kepada Tuhanmu, maka laksanakanlah salat dengan ikhlas semata-mata karena Tuhanmu, bukan dengan tujuan ria; dan berkurbanlah demi Allah dengan menyembelih hewan sebagai ibadah dan sarana mendekatkan diri kepada Allah.",
+        "3": "Sungguh orang-orang yang membencimu dan mengacuhkan hidayah yang engkau bawa, dialah orang yang terputus. Tidak hanya terputus jejaknya, mereka pun dijauhkan dari rahmat Allah dan segala kebaikan. Keteladanan dan kebaikanmu akan terus menjadi pembicaraan sepanjang zaman dan keturunanmu akan terus mewarisi kebaikanmu."
+      }
+    }
+  }
+}

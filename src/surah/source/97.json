@@ -1,0 +1,43 @@
+{
+  "number": 97,
+  "name": "القدر",
+  "name_latin": "Al-Qadr",
+  "name_id": "Al-Qadr",
+  "name_trans_id": "Al-Qadar",
+  "number_of_verse": 5,
+  "category": "Makkiyah",
+  "arabics": {
+    "1": "اِنَّآ اَنْزَلْنٰهُ فِيْ لَيْلَةِ الْقَدْرِ",
+    "2": "وَمَآ اَدْرٰىكَ مَا لَيْلَةُ الْقَدْرِۗ",
+    "3": "لَيْلَةُ الْقَدْرِ ەۙ خَيْرٌ مِّنْ اَلْفِ شَهْرٍۗ",
+    "4": "تَنَزَّلُ الْمَلٰۤىِٕكَةُ وَالرُّوْحُ فِيْهَا بِاِذْنِ رَبِّهِمْۚ مِنْ كُلِّ اَمْرٍۛ",
+    "5": "سَلٰمٌ ۛهِيَ حَتّٰى مَطْلَعِ الْفَجْرِ ࣖ"
+  },
+  "latins": {
+    "1": "Innā anzalnāhu fī lailatil-qadr(i).",
+    "2": "Wa mā adrāka mā lailatul-qadr(i).",
+    "3": "Lailatul-qadri khairum min alfi syahr(in).",
+    "4": "Tanazzalul-malā'ikatu war rūḥu fīhā bi'iżni rabbihim min kulli amr(in).",
+    "5": "Salāmun hiya ḥattā maṭla'il-fajr(i)."
+  },
+  "translations": {
+    "id": {
+      "1": "Sesungguhnya Kami telah menurunkannya (Al-Qur’an) pada Lailatulqadar.",
+      "2": "Tahukah kamu apakah Lailatulqadar itu?",
+      "3": "Lailatulqadar itu lebih baik daripada seribu bulan.",
+      "4": "Pada malam itu turun para malaikat dan Rūḥ (Jibril) dengan izin Tuhannya untuk mengatur semua urusan.",
+      "5": "Sejahteralah (malam) itu sampai terbit fajar."
+    }
+  },
+  "tafsirs": {
+    "id": {
+      "kemenag": {
+        "1": "Al-Qur’an adalah kitab suci yang mulia. Sesungguhnya Kami telah menurunkannya untuk pertama kali kepada Nabi Muhammad di Gua Hira, atau menurunkannya secara sekaligus dari Lau Maf ke Baitul Izzah di langit dunia, pada malam qadar, malam kemuliaan dan ke agungan.",
+        "2": "Dan tahukah kamu, wahai Nabi Muhammad, apakah malam kemuliaan dan keagungan itu? Ungkapan Lailatul Qadr baru disebut oleh Al-Qur’an dalam ayat pertama surah ini sehingga Allah perlu menjelaskan artinya dan menggugah perhatian Nabi tentangnya.",
+        "3": "Malam kemuliaan itu lebih baik daripada seribu bulan tanpa malam qadar di dalamnya. Ibadah pada malam itu mempunyai nilai yang sangat tinggi di mata Allah, lebih tinggi daripada ibadah selama seribu bulan.",
+        "4": "Pada malam itu turun para malaikat dan Ruh, yakni Jibril, dari langit ke bumi dengan izin Tuhannya untuk mengatur semua urusan makhluk yang telah ditentukan-Nya di Lauh Mahfuz untuk satu tahun mendatang, seperti umur, rezeki, kematian, dan sebagainya. Inilah yang membuat malam itu begitu mulia.",
+        "5": "Sejahteralah malam itu sejak matahari terbenam sampai terbit fajar. Pada malam itu Allah hanya menentukan keselamatan dan kesejahteraan bagi makhluknya. Para malaikat juga turun secara bergelombang sambil membawa rahmat, kebaikan, salam, dan berkah dari Allah. Pada malam itu pula, tiap kali berjumpa dengan orang beriman, para malaikat pasti mengucapkan salam kepadanya."
+      }
+    }
+  }
+}

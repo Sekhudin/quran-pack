@@ -1,0 +1,47 @@
+{
+  "number": 114,
+  "name": "النّاس",
+  "name_latin": "An-Nās",
+  "name_id": "An-Nas",
+  "name_trans_id": "Manusia",
+  "number_of_verse": 6,
+  "category": "Madaniyah",
+  "arabics": {
+    "1": "قُلْ اَعُوْذُ بِرَبِّ النَّاسِۙ",
+    "2": "مَلِكِ النَّاسِۙ",
+    "3": "اِلٰهِ النَّاسِۙ",
+    "4": "مِنْ شَرِّ الْوَسْوَاسِ ەۙ الْخَنَّاسِۖ",
+    "5": "الَّذِيْ يُوَسْوِسُ فِيْ صُدُوْرِ النَّاسِۙ",
+    "6": "مِنَ الْجِنَّةِ وَالنَّاسِ ࣖ"
+  },
+  "latins": {
+    "1": "Qul a'ūżu birabbin-nās(i).",
+    "2": "Malikin-nās(i).",
+    "3": "Ilāhin-nās(i).",
+    "4": "Min syarril-waswāsil-khannās(i).",
+    "5": "Allażī yuwaswisu fī ṣudūrin-nās(i).",
+    "6": "Minal jinnati wan-nās(i)."
+  },
+  "translations": {
+    "id": {
+      "1": "Katakanlah (Nabi Muhammad), “Aku berlindung kepada Tuhan manusia,",
+      "2": "raja manusia,",
+      "3": "sembahan manusia",
+      "4": "dari kejahatan (setan) pembisik yang bersembunyi",
+      "5": "yang membisikkan (kejahatan) ke dalam dada manusia,",
+      "6": "dari (golongan) jin dan manusia.”"
+    }
+  },
+  "tafsirs": {
+    "id": {
+      "kemenag": {
+        "1": "Wahai Nabi Muhammad, katakanlah kepada umatmu, “Aku berlindung kepada Tuhan yang menciptakan, memelihara, dan mengurus manusia.",
+        "2": "Raja manusia, yang mengatur semua urusan mereka, dan Dia Mahakaya sehingga tidak membutuhkan mereka.",
+        "3": "Sembahan manusia, Tuhan yang tidak ada sekutu bagi-Nya. Itulah Tuhan yang patut disembah dan dimintai perlindungan.",
+        "4": "Aku berlindung kepada-Nya dari kejahatan bisikan setan yang bersembunyi pada diri manusia dan selalu bersamanya layaknya darah yang mengalir di dalam tubuhnya,",
+        "5": "yang membisikkan kejahatan dan kesesatan ke dalam dada manusia dengan cara yang halus, lihai, licik, dan menjanjikan secara terus-menerus.",
+        "6": "Aku berlindung kepada-Nya dari setan pembisik kejahatan dan kesesatan yang berasal dari golongan jin, yakni makhluk halus yang tercipta dari api, dan juga dari golongan manusia yang telah menjadi budak setan."
+      }
+    }
+  }
+}

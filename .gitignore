@@ -1,0 +1,60 @@
+# Dependency directories
+node_modules/
+bower_components/
+
+# Logs and databases
+*.log
+*.sqlite
+*.sqlite3
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Build directories and files
+dist/
+out/
+build/
+build-output/
+build-*/      # Ignore any directories starting with "build-"
+*.pem         # Ignore pem files
+*.pid         # Ignore pid files
+*.seed        # Ignore seed files
+*.pid.lock
+*.tgz
+
+# Environment variables file
+.env
+*.env
+
+# IDE files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Package files
+package-lock.json
+yarn.lock
+
+# Test coverage directory
+coverage/
+
+# Production build directory
+build/
+
+# Dependency directories
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignore local development server files
+.local/
+
+# if contains credentials
+.npmrc

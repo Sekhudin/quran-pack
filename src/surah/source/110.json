@@ -1,0 +1,35 @@
+{
+  "number": 110,
+  "name": "النّصر",
+  "name_latin": "An-Naṣr",
+  "name_id": "An-Nasr",
+  "name_trans_id": "Pertolongan",
+  "number_of_verse": 3,
+  "category": "Madaniyah",
+  "arabics": {
+    "1": "اِذَا جَاۤءَ نَصْرُ اللّٰهِ وَالْفَتْحُۙ",
+    "2": "وَرَاَيْتَ النَّاسَ يَدْخُلُوْنَ فِيْ دِيْنِ اللّٰهِ اَفْوَاجًاۙ",
+    "3": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُۗ اِنَّهٗ كَانَ تَوَّابًا ࣖ"
+  },
+  "latins": {
+    "1": "Iżā jā'a naṣrullāhi wal-fatḥ(u).",
+    "2": "Wa ra'aitan-nāsa yadkhulūna fī dīnillāhi afwājā(n).",
+    "3": "Fasabbiḥ biḥamdi rabbika wastagfirh(u), innahū kāna tawwābā(n)."
+  },
+  "translations": {
+    "id": {
+      "1": "Apabila telah datang pertolongan Allah dan kemenangan",
+      "2": "dan engkau melihat manusia berbondong-bondong masuk agama Allah,",
+      "3": "bertasbihlah dengan memuji Tuhanmu dan mohonlah ampun kepada-Nya. Sesungguhnya Dia Maha Penerima tobat."
+    }
+  },
+  "tafsirs": {
+    "id": {
+      "kemenag": {
+        "1": "Wahai Nabi Muhammad, apabila telah datang pertolongan Allah kepadamu dan pengikutmu dalam menghadapi kaum kafir Quraisy, dan telah datang pula kemenangan kepadamu dengan penaklukan Mekah menjadi kota yang suci kembali dari kesyirikan dan kekafiran,",
+        "2": "dan engkau lihat manusia dari seluruh penjuru Jazirah Arab berbondong-bondong masuk agama Allah, yakni agama Islam, setelah sebelumnya mereka masuk Islam secara perorangan,",
+        "3": "maka sebagai ungkapan syukur kepada Allah atas karunia-Nya yang agung itu, bertasbihlah dan sucikanlah Tuhanmu dari sifat-sifat yang tak layak bagi-Nya, dan sertailah tasbihmu itu dengan memuji Tuhan-mu yang telah menyokongmu dalam menaklukkan Mekah, dan mohonlah ampunan kepada-Nya untukmu dan umatmu. Sungguh, Dia Maha Penerima tobat hamba-hamba-Nya yang bertasbih dan beristigfar. Membaca tasbih, tahmid, dan istighfar adalah cara yang mulia ketika seseorang meraih kesuksesan karena pada hakikatnya Allah-lah yang memberi kesuksesan itu kepadanya, bukan dengan berpesta dan berfoya-foya."
+      }
+    }
+  }
+}

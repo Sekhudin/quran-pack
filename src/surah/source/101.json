@@ -1,0 +1,67 @@
+{
+  "number": 101,
+  "name": "القارعة",
+  "name_latin": "Al-Qāri'ah",
+  "name_id": "Al-Qari'ah",
+  "name_trans_id": "Al-Qāri'ah",
+  "number_of_verse": 11,
+  "category": "Makkiyah",
+  "arabics": {
+    "1": "اَلْقَارِعَةُۙ",
+    "2": "مَا الْقَارِعَةُ ۚ",
+    "3": "وَمَآ اَدْرٰىكَ مَا الْقَارِعَةُ ۗ",
+    "4": "يَوْمَ يَكُوْنُ النَّاسُ كَالْفَرَاشِ الْمَبْثُوْثِۙ",
+    "5": "وَتَكُوْنُ الْجِبَالُ كَالْعِهْنِ الْمَنْفُوْشِۗ",
+    "6": "فَاَمَّا مَنْ ثَقُلَتْ مَوَازِيْنُهٗۙ",
+    "7": "فَهُوَ فِيْ عِيْشَةٍ رَّاضِيَةٍۗ",
+    "8": "وَاَمَّا مَنْ خَفَّتْ مَوَازِيْنُهٗۙ",
+    "9": "فَاُمُّهٗ هَاوِيَةٌ  ۗ",
+    "10": "وَمَآ اَدْرٰىكَ مَا هِيَهْۗ",
+    "11": "نَارٌ حَامِيَةٌ ࣖ"
+  },
+  "latins": {
+    "1": "Al-qāri'ah(tu).",
+    "2": "Mal-qāri'ah(tu).",
+    "3": "Wa mā adrāka mal-qāri'ah(tu).",
+    "4": "Yauma yakūnun-nāsu kal-farāsyil-mabṡūṡ(i).",
+    "5": "Wa takūnul-jibālu kal-'ihnil-manfūsy(i).",
+    "6": "Fa ammā man ṡaqulat mawāzīnuh(ū).",
+    "7": "Fa huwa fī 'īsyatir rāḍiyah(tin).",
+    "8": "Wa ammā man khaffat mawāzīnuh(ū).",
+    "9": "Fa ummuhū hāwiyah(tun).",
+    "10": "Wa mā adrāka mā hiyah.",
+    "11": "Nārun ḥāmiyah(tun)."
+  },
+  "translations": {
+    "id": {
+      "1": "Al-Qāri'ah (hari Kiamat yang menggetarkan).",
+      "2": "Apakah al-Qāri'ah itu?",
+      "3": "Tahukah kamu apakah al-Qāri'ah itu?",
+      "4": "Pada hari itu manusia seperti laron yang beterbangan",
+      "5": "dan gunung-gunung seperti bulu yang berhamburan.",
+      "6": "Siapa yang berat timbangan (kebaikan)-nya,",
+      "7": "dia berada dalam kehidupan yang menyenangkan.",
+      "8": "Adapun orang yang ringan timbangan (kebaikan)-nya,",
+      "9": "tempat kembalinya adalah (neraka) Hawiyah.",
+      "10": "Tahukah kamu apakah (neraka Hawiyah) itu?",
+      "11": "(Ia adalah) api yang sangat panas."
+    }
+  },
+  "tafsirs": {
+    "id": {
+      "kemenag": {
+        "1": "Hari kiamat yang mengerikan;",
+        "2": "apakah hari kiamat itu? Allah mengulang penyebutan kata “al-Qari’ah” untuk menggugah perhatian manusia tentang kengeriannya dan peristiwa-peristiwa dahsyat yang terjadi pada hari itu.",
+        "3": "Allah mengulangi sekali lagi pertanyaan itu agar manusia semakin tergugah, “Dan tahukah kamu apakah hari kiamat itu?”",
+        "4": "Allah menggambarkan dahsyatnya hari kiamat melalui dua hal, yaitu keadaan manusia dan gunung-gunung. Pada hari kiamat itu manusia seperti laron yang beterbangan. Mereka berlarian tidak tentu arah, kacau balau, dan tidak lagi menghiraukan sekelilingnya.",
+        "5": "Dan pada hari kiamat itu pula gunung-gunung seperti bulu yang dihambur-hamburkan. Gunung yang demikian kekar diempaskan sehingga menjadi abu, kemudian disapu oleh angin dahsyat hingga beterbangan, menjadikan bumi terhampar rata.",
+        "6": "Maka adapun orang yang berat timbangan kebaikan-nya, baik berupa ibadah ritual maupun sosial yang dikerjakan dengan ikhlas,",
+        "7": "maka dia berada dalam kehidupan yang memuaskan dan membahagiakan. Itulah surga yang penuh nikmat.",
+        "8": "Dan adapun orang yang ringan timbangan kebaikan-nya dan kalah berat dibanding timbangan keburukannya karena lebih banyak berbuat maksiat dan kebatilan daripada taat dan kebajikan,",
+        "9": "maka tempat kembalinya adalah neraka Hawiyah.",
+        "10": "Menggugah perhatian manusia tentang neraka Hawiyah itu, Allah berfirman, “Dan tahukah kamu apakah neraka Hawiyah itu?”",
+        "11": "Neraka Hawiyah itu adalah api yang sangat panas dan menjadikan apa saja yang masuk ke dalamnya hancur lebur dan leleh."
+      }
+    }
+  }
+}

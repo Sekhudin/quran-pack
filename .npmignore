@@ -1,0 +1,65 @@
+# Direktori dan file yang umumnya tidak perlu disertakan dalam paket npm
+
+# Direktori pengembangan
+/node_modules/
+/bower_components/
+/.sass-cache/
+/.vscode/
+/.idea/
+/.cache/
+/.env
+/.git/
+/.hg/
+/.svn/
+/.DS_Store
+/.lock-wscript
+/._*
+/.*.swp
+/*.log
+/*.log.*
+/logs
+/tmp/
+/temp/
+/*.pid
+/*.pid.lock
+/*.seed
+/*.pid.lock
+*.sublime*
+*.sqlite*
+*.bak
+*.bk
+*.bk2
+*.bak2
+*.swp
+*~
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+/playground
+*.play.ts
+*.play.js
+*.tgz
+
+# File konfigurasi
+.babelrc
+.eslintrc.json
+.npmrc
+.prettierrc
+jest.config.js
+.env
+*.env
+
+# File konfigurasi dan pengaturan proyek
+.gitignore
+.npmignore
+.npmrc
+tsconfig.json
+
+# Direktori build yang perlu disertakan dalam paket npm
+# Hapus baris berikut jika menggunakan sistem build
+# seperti Webpack atau Gulp untuk menghasilkan distribusi akhir
+
+# /dist/
+# /out/
+# /build/

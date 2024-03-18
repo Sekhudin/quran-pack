@@ -1,0 +1,55 @@
+{
+  "number": 98,
+  "name": "البيّنة",
+  "name_latin": "Al-Bayyinah",
+  "name_id": "Al-Bayyinah",
+  "name_trans_id": "Bukti Nyata",
+  "number_of_verse": 8,
+  "category": "Madaniyah",
+  "arabics": {
+    "1": "لَمْ يَكُنِ الَّذِيْنَ كَفَرُوْا مِنْ اَهْلِ الْكِتٰبِ وَالْمُشْرِكِيْنَ مُنْفَكِّيْنَ حَتّٰى تَأْتِيَهُمُ الْبَيِّنَةُۙ",
+    "2": "رَسُوْلٌ مِّنَ اللّٰهِ يَتْلُوْا صُحُفًا مُّطَهَّرَةًۙ",
+    "3": "فِيْهَا كُتُبٌ قَيِّمَةٌ  ۗ",
+    "4": "وَمَا تَفَرَّقَ الَّذِيْنَ اُوْتُوا الْكِتٰبَ اِلَّا مِنْۢ بَعْدِ مَا جَاۤءَتْهُمُ الْبَيِّنَةُ ۗ",
+    "5": "وَمَآ اُمِرُوْٓا اِلَّا لِيَعْبُدُوا اللّٰهَ مُخْلِصِيْنَ لَهُ الدِّيْنَ ەۙ حُنَفَاۤءَ وَيُقِيْمُوا الصَّلٰوةَ وَيُؤْتُوا الزَّكٰوةَ وَذٰلِكَ دِيْنُ الْقَيِّمَةِۗ",
+    "6": "اِنَّ الَّذِيْنَ كَفَرُوْا مِنْ اَهْلِ الْكِتٰبِ وَالْمُشْرِكِيْنَ فِيْ نَارِ جَهَنَّمَ خٰلِدِيْنَ فِيْهَاۗ اُولٰۤىِٕكَ هُمْ شَرُّ الْبَرِيَّةِۗ",
+    "7": "اِنَّ الَّذِيْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ اُولٰۤىِٕكَ هُمْ خَيْرُ الْبَرِيَّةِۗ",
+    "8": "جَزَاۤؤُهُمْ عِنْدَ رَبِّهِمْ جَنّٰتُ عَدْنٍ تَجْرِيْ مِنْ تَحْتِهَا الْاَنْهٰرُ خٰلِدِيْنَ فِيْهَآ اَبَدًا ۗرَضِيَ اللّٰهُ عَنْهُمْ وَرَضُوْا عَنْهُ ۗ ذٰلِكَ لِمَنْ خَشِيَ رَبَّهٗ ࣖ"
+  },
+  "latins": {
+    "1": "Lam yakunil-lażīna kafarū min ahlil-kitābi wal-musyrikīna munfakkīna ḥattā ta'tiyahumul-bayyinah(tu).",
+    "2": "Rasūlum minallāhi yatlū ṣuḥufam muṭahharah(tan).",
+    "3": "Fīhā kutubun qayyimah(tun).",
+    "4": "Wa mā tafarraqal-lażīna ūtul-kitāba illā mim ba'di mā jā'athumul-bayyinah(tu).",
+    "5": "Wa mā umirū illā liya'budullāha mukhliṣīna lahud-dīn(a), ḥunafā'a wa yuqīmuṣ-ṣalāta wa yu'tuz-zakāta  wa żālika dīnul-qayyimah(ti).",
+    "6": "Innal-lażīna kafarū min ahlil-kitābi wal-musyrikīna fī nāri jahannama khālidīna fīhā, ulā'ika hum syarrul-bariyyah(ti).",
+    "7": "Innal-lażīna āmanū wa 'amiluṣ-ṣāliḥāti ulā'ika hum khairul-bariyyah(ti).",
+    "8": "Jazā'uhum 'inda rabbihim jannātu 'adnin tajrī min taḥtihal-anhāru khālidīna fīhā abadā(n), raḍiyallāhu 'anhum wa raḍū 'anh(u), żālika liman khasyiya rabbah(ū)."
+  },
+  "translations": {
+    "id": {
+      "1": "Orang-orang yang kufur dari golongan Ahlulkitab dan orang-orang musyrik tidak akan meninggalkan (kekufuran mereka) sampai datang kepada mereka bukti yang nyata,",
+      "2": "(yaitu) seorang Rasul dari Allah (Nabi Muhammad) yang membacakan lembaran-lembaran suci (Al-Qur’an)",
+      "3": "yang di dalamnya terdapat (isi) kitab-kitab yang lurus (benar).",
+      "4": "Tidaklah terpecah-belah orang-orang Ahlulkitab, melainkan setelah datang kepada mereka bukti yang nyata.",
+      "5": "Mereka tidak diperintah, kecuali untuk menyembah Allah dengan mengikhlaskan ketaatan kepada-Nya lagi hanif (istikamah), melaksanakan salat, dan menunaikan zakat. Itulah agama yang lurus (benar).",
+      "6": "Sesungguhnya orang-orang yang kufur dari golongan Ahlulkitab dan orang-orang musyrik (akan masuk) neraka Jahanam. Mereka kekal di dalamnya. Mereka itulah seburuk-buruk makhluk.",
+      "7": "Sesungguhnya orang-orang yang beriman dan mengerjakan kebajikan, mereka itulah sebaik-baik makhluk.",
+      "8": "Balasan mereka di sisi Tuhannya adalah surga 'Adn yang mengalir di bawahnya sungai-sungai. Mereka kekal di dalamnya selama-lamanya. Allah rida terhadap mereka dan mereka pun rida kepada-Nya. Itu adalah (balasan) bagi orang yang takut kepada Tuhannya."
+    }
+  },
+  "tafsirs": {
+    "id": {
+      "kemenag": {
+        "1": "Orang-orang yang kafir dari golongan Ahli Kitab, yaitu Yahudi dan Nasrani, dan orang-orang musyrik penyembah berhala tidak akan meninggalkan kekafiran mereka sampai datang kepada mereka bukti yang nyata.",
+        "2": "Bukti yang nyata itu adalah Nabi Muhammad, seorang rasul dari Allah yang membacakan kepada mereka lembaran-lembaran yang suci. Itulah Al-Quran yang disucikan dari kebohongan dan kebatilan.",
+        "3": "Lembaran-lembaran suci itu di dalamnya terdapat kitab-kitab, yakni hukum-hukum tertulis, yang lurus. Al-Qur’an berisi akidah, hukum, kisah, dan aturan yang menuntun umat manusia ke jalan yang benar dan lurus.",
+        "4": "Wahai Nabi, ketahuilah bahwa Ahli Kitab dahulu sepakat mengimani dirimu sebagai rasul terakhir sebagaimana informasi yang mereka dapati dalam kitab-kitab mereka. Dan tidaklah terpecah-belah orang-orang Ahli Kitab itu melainkan setelah datang kepada mereka bukti yang nyata, yaitu kedatanganmu atau Al-Qur’an yang kaubawa. Sebagian beriman kepadamu dan sebagian yang lain mengingkarimu.",
+        "5": "Mereka terpecah belah seperti itu padahal mereka dalam kitab-kitab mereka hanya diperintah untuk menyembah Allah dengan ikhlas menaati-Nya semata-mata karena menjalankan agama, dan juga diperintah agar melaksanakan salat dan menunaikan zakat; dan yang demikian itulah aga-ma yang lurus dan benar agama Islam. Keikhlasan dalam beribadah dengan memurnikan niat demi mencari rida Allah dan menjauhkan diri dari kemusyrikan adalah salah satu syarat diterimanya ibadah.",
+        "6": "Sungguh, orang-orang yang kafir dari golongan Ahli Kitab dan orang-orang yang musyrik akan masuk ke neraka Jahanam dengan bermacam siksa pedih di dalamnya; mereka kekal di dalamnya selama-lamanya. Tidak ada kesempatan bagi mereka untuk keluar, bahkan untuk sekadar sejenak lepas dari siksa. Mereka itu adalah sejahat-jahat makhluk. Allah telah mem-beri mereka peringatan, tetapi mereka enggan mengindahkannya. Dia tidak akan menyiksa seseorang kecuali setelah memberinya peringatan.",
+        "7": "Sungguh, orang-orang yang beriman kepada Allah dan rasulnya dengan iman yang benar dan mengerjakan kebajikan dengan ikhlas dan sesuai ketetentuan syariat, mereka itu adalah sebaik-baik makhluk. Mereka adalah makhluk yang Allah kehendaki untuk menjadi khalifah di bumi.",
+        "8": "Balasan mereka di sisi Tuhan mereka ialah surga 'Adn yang mengalir di bawahnya sungai-sungai; mereka kekal di dalamnya selama-lamanya bersama segala kenikmatan di dalamnya. Selain itu, mereka mendapat nikmat yang lebih besar. Allah rida terhadap mereka atas keimanan dan amal saleh mereka dan mereka pun rida kepada-Nya atas kemuliaan yang Allah anugerahkan kepada mereka. Yang demikian itu adalah balasan yang agung bagi orang yang takut kepada Tuhannya. Ketakutannya pada siksaan Allah mendorongnya untuk menjauhkan diri dari larangan Allah, termasuk kemusyrikan dan kekafiran."
+      }
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "number": 62,
+  "name": "الجمعة",
+  "name_latin": "Al-Jumu'ah",
+  "name_id": "Al-Jumu'ah",
+  "name_trans_id": "Jumat",
+  "number_of_verse": 11,
+  "category": "Madaniyah",
+  "arabics": {
+    "1": "يُسَبِّحُ لِلّٰهِ مَا فِى السَّمٰوٰتِ وَمَا فِى الْاَرْضِ الْمَلِكِ الْقُدُّوْسِ الْعَزِيْزِ الْحَكِيْمِ",
+    "2": "هُوَ الَّذِيْ بَعَثَ فِى الْاُمِّيّٖنَ رَسُوْلًا مِّنْهُمْ يَتْلُوْا عَلَيْهِمْ اٰيٰتِهٖ وَيُزَكِّيْهِمْ وَيُعَلِّمُهُمُ الْكِتٰبَ وَالْحِكْمَةَ وَاِنْ كَانُوْا مِنْ قَبْلُ لَفِيْ ضَلٰلٍ مُّبِيْنٍۙ",
+    "3": "وَّاٰخَرِيْنَ مِنْهُمْ لَمَّا يَلْحَقُوْا بِهِمْۗ وَهُوَ الْعَزِيْزُ الْحَكِيْمُۙ",
+    "4": "ذٰلِكَ فَضْلُ اللّٰهِ يُؤْتِيْهِ مَنْ يَّشَاۤءُۗ وَاللّٰهُ ذُو الْفَضْلِ الْعَظِيْمِ",
+    "5": "مَثَلُ الَّذِيْنَ حُمِّلُوا التَّوْرٰىةَ ثُمَّ لَمْ يَحْمِلُوْهَا كَمَثَلِ الْحِمَارِ يَحْمِلُ اَسْفَارًاۗ بِئْسَ مَثَلُ الْقَوْمِ الَّذِيْنَ كَذَّبُوْا بِاٰيٰتِ اللّٰهِ ۗوَاللّٰهُ لَا يَهْدِى الْقَوْمَ الظّٰلِمِيْنَ",
+    "6": "قُلْ يٰٓاَيُّهَا الَّذِيْنَ هَادُوْٓا اِنْ زَعَمْتُمْ اَنَّكُمْ اَوْلِيَاۤءُ لِلّٰهِ مِنْ دُوْنِ النَّاسِ فَتَمَنَّوُا الْمَوْتَ اِنْ كُنْتُمْ صٰدِقِيْنَ",
+    "7": "وَلَا يَتَمَنَّوْنَهٗٓ اَبَدًاۢ بِمَا قَدَّمَتْ اَيْدِيْهِمْۗ وَاللّٰهُ عَلِيْمٌۢ بِالظّٰلِمِيْنَ",
+    "8": "قُلْ اِنَّ الْمَوْتَ الَّذِيْ تَفِرُّوْنَ مِنْهُ فَاِنَّهٗ مُلٰقِيْكُمْ ثُمَّ تُرَدُّوْنَ اِلٰى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُمْ بِمَا كُنْتُمْ تَعْمَلُوْنَ ࣖ",
+    "9": "يٰٓاَيُّهَا الَّذِيْنَ اٰمَنُوْٓا اِذَا نُوْدِيَ لِلصَّلٰوةِ مِنْ يَّوْمِ الْجُمُعَةِ فَاسْعَوْا اِلٰى ذِكْرِ اللّٰهِ وَذَرُوا الْبَيْعَۗ ذٰلِكُمْ خَيْرٌ لَّكُمْ اِنْ كُنْتُمْ تَعْلَمُوْنَ",
+    "10": "فَاِذَا قُضِيَتِ الصَّلٰوةُ فَانْتَشِرُوْا فِى الْاَرْضِ وَابْتَغُوْا مِنْ فَضْلِ اللّٰهِ وَاذْكُرُوا اللّٰهَ كَثِيْرًا لَّعَلَّكُمْ تُفْلِحُوْنَ",
+    "11": "وَاِذَا رَاَوْا تِجَارَةً اَوْ لَهْوًا ۨانْفَضُّوْٓا اِلَيْهَا وَتَرَكُوْكَ قَاۤىِٕمًاۗ قُلْ مَا عِنْدَ اللّٰهِ خَيْرٌ مِّنَ اللَّهْوِ وَمِنَ التِّجَارَةِۗ وَاللّٰهُ خَيْرُ الرّٰزِقِيْنَ ࣖ"
+  },
+  "latins": {
+    "1": "Yusabbiḥu lillāhi mā fis-samāwāti wa mā fil-arḍil-malikil-quddūsil-'azīzil-ḥakīm(i).",
+    "2": "Huwal-lażī ba'aṡa fil-ummiyyīna rasūlam minhum yatlū 'alaihim āyātihī wa yuzakkīhim wa yu'allimuhumul-kitāba wal-ḥikmata wa in kānū min qablu lafī ḍalālim mubīn(in).",
+    "3": "Wa ākharīna minhum lammā yalḥaqū bihim, wa huwal-'azīzul-ḥakīm(u).",
+    "4": "Żālika faḍlullāhi yu'tīhi may yasyā'(u), wallāhu żul-faḍlil-'aẓīm(i).",
+    "5": "Maṡalul-lażīna ḥummilut-taurāta ṡumma lam yaḥmilūhā kamaṡalil-ḥimāri yaḥmilu asfārā(n), bi'sa maṡalul-qaumil-lażīna każżabū bi'āyātillāh(i), wallāhu lā yahdil-qaumaẓ-ẓālimīn(a).",
+    "6": "Qul yā ayyuhal-lażīna hādū in za'amtum annakum auliyā'u lillāhi min dūnin-nāsi fa tamannawul-mauta in kuntum ṣādiqīn(a).",
+    "7": "Wa lā yatamannaunahū abadam bimā qaddamat aidīhim, wallāhu 'alīmum biẓ-ẓālimīn(a).",
+    "8": "Qul innal-mautal-lażī tafirrūna minhu fa innahū mulāqīkum ṡumma turaddūna ilā 'ālimil-gaibi wasy-syahādati fa yunabbi'ukum bimā kuntum ta'malūn(a).",
+    "9": "Yā ayyuhal-lażīna āmanū iżā nūdiya liṣ-ṣalāti miy yaumil-jumu'ati fas'au ilā żikrillāhi wa żarul-bai'(a), żālikum khairul lakum in kuntum ta'lamūn(a).",
+    "10": "Fa iżā quḍiyatiṣ-ṣalātu fantasyirū fil-arḍi wabtagū min faḍlillāhi ważkurullāha kaṡīral la'allakum tufliḥūn(a).",
+    "11": "Wa iżā ra'au tijāratan au lahwaninfaḍḍū ilaihā wa tarakūka qā'imā(n), qul mā 'indallāhi khairum minal-lahwi wa minat-tijārah(ti), wallāhu khairur-rāziqīn(a)."
+  },
+  "translations": {
+    "id": {
+      "1": "Apa yang ada di langit dan apa yang ada di bumi senantiasa bertasbih kepada Allah Yang Maha Raja, Maha Suci, Maha Perkasa, lagi Maha Bijaksana.",
+      "2": "Dialah yang mengutus seorang Rasul (Nabi Muhammad) kepada kaum yang buta huruf dari (kalangan) mereka sendiri, yang membacakan kepada mereka ayat-ayat-Nya, menyucikan (jiwa) mereka, serta mengajarkan kepada mereka Kitab (Al-Qur’an) dan Hikmah (sunah), meskipun sebelumnya mereka benar-benar dalam kesesatan yang nyata.",
+      "3": "(Allah juga mengutus Nabi Muhammad) kepada (kaum) selain mereka yang belum (datang) menyusul mereka. Dialah Yang Maha Perkasa lagi Maha Bijaksana.",
+      "4": "Itulah karunia Allah yang dianugerahkan kepada siapa yang Dia kehendaki. Allah memiliki karunia yang besar.",
+      "5": "Perumpamaan orang-orang yang dibebani tugas mengamalkan Taurat, kemudian tidak mengamalkannya, adalah seperti keledai yang membawa kitab-kitab (tebal tanpa mengerti kandungannya). Sangat buruk perumpamaan kaum yang mendustakan ayat-ayat Allah. Allah tidak memberi petunjuk kepada kaum yang zalim.",
+      "6": "Katakanlah (Nabi Muhammad), “Wahai orang-orang Yahudi, jika kamu mengira bahwa kamulah kekasih Allah (dan) bukan orang lain, harapkanlah kematianmu, jika kamu orang-orang benar.”",
+      "7": "Mereka tidak akan mengharapkan kematian itu selamanya disebabkan apa (keburukan) yang telah mereka perbuat dengan tangan mereka sendiri. Allah Maha Mengetahui orang-orang zalim.",
+      "8": "Katakanlah, “Sesungguhnya kematian yang kamu lari darinya pasti akan menemuimu. Kamu kemudian akan dikembalikan kepada Yang Maha Mengetahui yang gaib dan yang nyata, lalu Dia beritakan kepadamu apa yang selama ini kamu kerjakan.”",
+      "9": "Wahai orang-orang yang beriman, apabila (seruan)  untuk melaksanakan salat pada hari Jumat telah dikumandangkan, segeralah mengingat Allah dan tinggalkanlah jual beli. Yang demikian itu lebih baik bagimu jika kamu mengetahui.",
+      "10": "Apabila salat (Jumat) telah dilaksanakan, bertebaranlah kamu di bumi, carilah karunia Allah, dan ingatlah Allah sebanyak-banyaknya agar kamu beruntung.",
+      "11": "Apabila (sebagian) mereka melihat perdagangan atau permainan, mereka segera berpencar (menuju) padanya dan meninggalkan engkau (Nabi Muhammad) yang sedang berdiri (berkhotbah). Katakanlah, “Apa yang ada di sisi Allah lebih baik daripada permainan dan perdagangan.” Allah pemberi rezeki yang terbaik."
+    }
+  },
+  "tafsirs": {
+    "id": {
+      "kemenag": {
+        "1": "Apa yang ada di langit, bintang, bulan, matahari dan seluruh planet; dan apa yang ada di bumi, hewan dan tetumbuhan bertasbih kepada Allah, mengakui dan menyatakan kemahasucian Allah yang berbeda dengan seluruh makhluk ciptaan-Nya; Dia adalah Maharaja yang kekuasaan-Nya mutlak; Yang Mahasuci dari segala yang diduga manusia; dan Dialah Yang Mahaperkasa menciptakan dan menghancurkan jagat raya sekejap mata; Mahabijaksana, tidak terburu menggunakan kekuasaan-Nya yang tiada terbatas untuk menghancurkan jagat raya atau menghukum manusia yang berdosa.",
+        "2": "Dialah yang mengutus seorang Rasul, Muhammad kepada kaum yang buta huruf, yang secara khusus ditujukan kepada bangsa Arab yang kebanyakan tidak bisa baca tulis, dari kalangan mereka sendiri, yaitu dari kalangan bangsa Arab, yang membacakan kepada mereka ayat-ayat-Nya, ayat-ayat Al-Qur’an, yang isinya menyucikan jiwa mereka yang beriman kepadanya; dan mengajarkan kepada mereka yang membuka diri menerima dan membenaran kerasulan beliau, Kitab Al-Qur’an, dan Hikmah yakni Sunah Nabi, meskipun sebelumnya, yakni sebelum kelahiran Rasulullah di masa jahiliah, mereka, sebagian di antara para sahabat Rasulullah benar-benar dalam kesesatan yang nyata. Keyakinan mereka menyimpang dari prinsip tauhid dan perilaku mereka bertentangan dengan nilai kemanusiaan, salah satunya mengubur anak perempuan hidup-hidup.",
+        "3": "Selain mengutus kepada bangsa Arab yang tidak bisa baca tulis, Allah juga mengutus Rasulullah kepada bangsa-bangsa lain di luar bangsa Arab, bahkan kepada seluruh dunia. Dan Rasulullah juga diutus kepada kaum yang lain dari mereka di luar bangsa Arab untuk masa yang tiada terbatas hingga hari kiamat, kaum yang belum berhubungan dengan mereka, karena hidup pada zaman dan tempat yang berbeda dengan mereka, sebagaimana disebutkan dalam Al-Qur’an, “Dan Kami tidak mengutus engkau Muhammad melainkan untuk menjadi rahmat bagi seluruh alam.” (Lihat: Surah al-Anbiya/21: 107). Dan Dialah Yang Mahaperkasa, menciptakan dan menghancurkan jagat raya sekejap mata; Mahabijaksana, tidak terburu menggunakan kekuasaan-Nya yang tiada terbatas untuk menghukum manusia yang berdosa.",
+        "4": "Demikianlah karunia Allah yang diberikan kepada siapa yang Dia kehendaki seperti mengangkat Rasulullah menjadi nabi dan rasul dan diutus kepada umat manusia seluruh alam; dan Allah memiliki karunia yang besar yang diberikan kepada hamba-hamba-Nya yang beriman.",
+        "5": "Allah mengecam manusia yang mendapat karunia-Nya menjadi ahli agama, tetapi tidak mengamalkannya. Perumpamaan orang-orang yang diberi tugas membawa Taurat, menjadi ulama dan bertugas membimbing manusia beragama, kemudian mereka tidak membawanya, tidak mengamalkan agama dan tidak menjadikan dirinya teladan bagi umat adalah seperti keledai yang membawa kitab-kitab yang tebal, dirinya dibebani oleh pengetahuan agama, tetapi pengetahuan agama itu tidak membawa kebaikan apa pun bagi dirinya. Sangat buruk perumpamaan kaum yang mendustakan ayat-ayat Allah yang diwahyukan kepada Nabi dan Rasul-Nya. Dan Allah tidak akan pernah memberi petunjuk kepada orang-orang yang zalim, yang membiarkan dirinya gelap, padahal mereka memegang lampu.",
+        "6": "Para pemuka Yahudi tidak hanya tidak mengamalkan agamanya, tetapi juga menilai dirinya kekasih Allah, padahal mereka kufur kepada-Nya. Katakanlah, wahai Nabi Muhammad kepada para tokoh Agama Yahudi, “Wahai orang-orang Yahudi Bani Nadir, Bani Quraizah dan Bani Qainuqa! Jika kamu mengira dengan penuh keyakinan bahwa kamulah kekasih Allah, karena menjadi bangsa pilihan, bukan orang-orang yang lain, seperti kaum muslim, maka harapkanlah kematianmu, karena kematian membuktikan apakah kamu kekasih Allah atau bukan, jika kamu orang yang benar, dalam pengakuanmu itu.",
+        "7": "Namun demikian, mereka tidak mungkin mengharapkan kematian. Dan mereka, tokoh-tokoh Yahudi di Madinah yang mengaku kekasih Allah tidak akan pernah mengharapkan kematian itu selamanya disebabkan kejahatan yang telah mereka perbuat dengan tangan mereka sendiri. Hal ini karena hati kecil mereka mengakui dirinya salah dan menyadari bahwa kematian akan mengungkapkan siapa yang salah dan siapa yang benar. Dan Allah Maha Mengetahui pengakuan, perasaan, dan kegelisahan orang-orang yang zalim, yaitu orang-orang yang menganiaya dirinya sendiri dengan berbuat kejahatan, padahal mereka mengetahuinya.",
+        "8": "Kematian yang tidak diharapkan itu pasti akan datang. Katakanlah, wahai Nabi Muhammad kepada para pemuka Yahudi di Madinah, “Sesungguhnya kematian yang kamu lari daripadanya, karena kamu menyadari bahwa kematian akan mengungkapkan siapa yang salah dan siapa yang benar, ia, kematian, meskipun dijauhi pasti menemui kamu, di mana pun kamu berada; kemudian kamu, melalui pintu kematian, akan dikembalikan kepada Allah untuk mempertanggung-jawabkan semua perbuatan selama hidup di dunia. Dia Yang Maha Mengetahui yang gaib, yang tidak terlihat, dan yang nyata, yang kasat mata; lalu Dia akan memberitahukan kepada kamu dengan lengkap dan menyeluruh apa yang telah kamu kerjakan, baik kejahatan maupun kebaikan.”",
+        "9": "Allah menghimbau orang-orang beriman agar segera ke masjid untuk salat berjamaah apabila azan sudah dikumandangkan. Wahai orang-orang yang beriman! Di mana pun dan kapan pun kamu berada. Apabila telah diseru dengan dikumandangkan azan untuk melaksanakan salat Jumat pada hari Jumat, atau salat lima waktu maka segeralah kamu mengingat Allah, dengan melaksanakan salat yang khusyuk serta zikir dan doa sesudah salat; dan tinggalkanlah jual beli dan berbagai kegiatan lainnya. Yang demikian itu, meninggalkan sementara berbagai kegiatan untuk segera melaksanakan salat wajib berjamaah di masjid, lebih baik bagi kamu dibandingkan dengan menunda salat, jika kamu mengetahui keutamaan salat di awal waktu dengan berjamaah di masjid.",
+        "10": "Apabila salat wajib telah dilaksanakan di awal waktu dengan berjamaah di masjid; maka bertebaranlah kamu di bumi, kembali bekerja dan berbisnis; carilah karunia Allah, rezeki yang halal, berkah, dan melimpah dan ingatlah Allah banyak-banyak ketika salat maupun ketika bekerja atau berbisnis agar kamu beruntung, menjadi pribadi yang seimbang, serta sehat mental dan fisik.",
+        "11": "Ayat sebelumnya mengingatkan orang-orang beriman agar kembali bekerja mencari rezeki yang halal apabila sudah melaksanakan salat Jumat. Ayat ini menegur kaum muslim yang meninggalkan Rasulullah ketika sedang menyampaikan khutbah Jumat untuk berburu barang dagangan. Dan apabila mereka, orang-orang beriman yang sedang menyimak khutbah Jum'at, melihat perdagangan, kafilah dagang yang membawa barang-barang berharga tiba di Madinah atau permainan, hiburan musik dan tari yang diselenggarakan guna menyambut kafilah dagang yang baru tiba dari Syam, mereka, sebagian besar orang-orang yang sedang menyimak khutbah Jumat itu, segera menuju kepadanya, ke tempat kafilah dagang dan hiburan itu; dan mereka meninggalkan engkau Muhammad yang sedang berdiri, menyampaikan khutbah Jumat. Katakanlah, wahai Muhammad kepada mereka, “Apa yang ada di sisi Allah, kenikmatan surga yang diberikan kepada orang yang taat kepada Allah dan Rasul-Nya lebih baik daripada permainan, hiburan, musik dan tari, dan perdagangan barang-barang berharga yang dicari dan disukai manusia. “Dan Allah pemberi rezeki yang terbaik kepada setiap manusia."
+      }
+    }
+  }
+}

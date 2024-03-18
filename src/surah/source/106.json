@@ -1,0 +1,39 @@
+{
+  "number": 106,
+  "name": "قريش",
+  "name_latin": "Quraisy",
+  "name_id": "Quraisy",
+  "name_trans_id": "Orang Quraisy",
+  "number_of_verse": 4,
+  "category": "Makkiyah",
+  "arabics": {
+    "1": "لِاِيْلٰفِ قُرَيْشٍۙ",
+    "2": "اٖلٰفِهِمْ رِحْلَةَ الشِّتَاۤءِ وَالصَّيْفِۚ",
+    "3": "فَلْيَعْبُدُوْا رَبَّ هٰذَا الْبَيْتِۙ",
+    "4": "الَّذِيْٓ اَطْعَمَهُمْ مِّنْ جُوْعٍ ەۙ وَّاٰمَنَهُمْ مِّنْ خَوْفٍ ࣖ"
+  },
+  "latins": {
+    "1": "Li'īlāfi quraisy(in).",
+    "2": "´lāfihim riḥlatasy-syitā'i waṣ-ṣaif(i).",
+    "3": "Falya'budū rabba hāżal-bait(i).",
+    "4": "Allażī aṭ'amahum min jū'(in), wa āmanahum min khauf(in)."
+  },
+  "translations": {
+    "id": {
+      "1": "Disebabkan oleh kebiasaan orang-orang Quraisy,",
+      "2": "(yaitu) kebiasaan mereka bepergian pada musim dingin dan musim panas (sehingga mendapatkan banyak keuntungan),",
+      "3": "maka hendaklah mereka menyembah Tuhan (pemilik) rumah ini (Ka'bah)",
+      "4": "yang telah memberi mereka makanan untuk menghilangkan lapar dan mengamankan mereka dari rasa takut."
+    }
+  },
+  "tafsirs": {
+    "id": {
+      "kemenag": {
+        "1": "Wahai manusia, kamu akan dibuat kagum karena kebiasaan orang-orang Quraisy, suatu kabilah besar yang mempunyai peranan sentral pada masyarakat Arab dalam bidang politik dan sosial.",
+        "2": "Yaitu kebiasaan mereka bepergian pada musim dingin ke Yaman dan musim panas ke Syam untuk berniaga guna memenuhi kebutuhan hidup mereka di Mekah untuk berkhidmat merawat Kakbah dan melayani para peziarah, suatu hal yang menjadi kebanggan mereka atas kabilah-kabilah lain.",
+        "3": "Mereka pergi berniaga tiap tahun dengan aman dan sentosa. Oleh karena itu maka hendaklah mereka menyembah Tuhan Pemilik rumah ini, yaitu Kakbah, dengan pengabdian yang hakiki dan tidak mempersekutukan-Nya, sebagai bentuk rasa syukur atas nikmat yang telah mereka terima.",
+        "4": "Hendaklah mereka menyembah Tuhan Yang telah memberi makanan kepada mereka untuk menghilangkan lapar, memenuhi kebutuhan dasar mereka, dan mengamankan mereka dari rasa ketakutan. Terpenuhinya kebutuhan akan makanan dan rasa aman merupakan dua prasyarat penting yang menjamin kesejahteraan suatu masyarakat."
+      }
+    }
+  }
+}

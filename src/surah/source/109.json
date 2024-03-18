@@ -1,0 +1,47 @@
+{
+  "number": 109,
+  "name": "الكٰفرون",
+  "name_latin": "Al-Kāfirūn",
+  "name_id": "Al-Kafirun",
+  "name_trans_id": "Orang-Orang kafir",
+  "number_of_verse": 6,
+  "category": "Makkiyah",
+  "arabics": {
+    "1": "قُلْ يٰٓاَيُّهَا الْكٰفِرُوْنَۙ",
+    "2": "لَآ اَعْبُدُ مَا تَعْبُدُوْنَۙ",
+    "3": "وَلَآ اَنْتُمْ عٰبِدُوْنَ مَآ اَعْبُدُۚ",
+    "4": "وَلَآ اَنَا۠ عَابِدٌ مَّا عَبَدْتُّمْۙ",
+    "5": "وَلَآ اَنْتُمْ عٰبِدُوْنَ مَآ اَعْبُدُۗ",
+    "6": "لَكُمْ دِيْنُكُمْ وَلِيَ دِيْنِ ࣖ"
+  },
+  "latins": {
+    "1": "Qul yā ayyuhal-kāfirūn(a).",
+    "2": "Lā a'budu mā ta'budūn(a).",
+    "3": "Wa lā antum 'ābidūna mā a'bud(u).",
+    "4": "Wa lā ana 'ābidum mā 'abattum.",
+    "5": "Wa lā antum 'ābidūna mā a'bud(u).",
+    "6": "Lakum dīnukum wa liya dīn(i)."
+  },
+  "translations": {
+    "id": {
+      "1": "Katakanlah (Nabi Muhammad), “Wahai orang-orang kafir,",
+      "2": "aku tidak akan menyembah apa yang kamu sembah.",
+      "3": "Kamu juga bukan penyembah apa yang aku sembah.",
+      "4": "Aku juga tidak pernah menjadi penyembah apa yang kamu sembah.",
+      "5": "Kamu tidak pernah (pula) menjadi penyembah apa yang aku sembah.",
+      "6": "Untukmu agamamu dan untukku agamaku.”"
+    }
+  },
+  "tafsirs": {
+    "id": {
+      "kemenag": {
+        "1": "Wahai Nabi Muhammad, katakanlah, “Wahai orang-orang yang me-milih kafir sebagai jalan hidup!",
+        "2": "Sampai kapan pun aku tidak akan menyembah apa yang kamu sembah selain Allah, seperti berhala-berhala itu. Tuhan bukanlah ciptaan manusia dan Dia tidak menjelma menjadi suatu yang kasat mata sebagaimana sembahanmu itu.",
+        "3": "Dan kamu bukan penyembah apa yang aku sembah, yaitu Tuhan Yang Maha Esa, Penguasa alam semesta. Berhala sembahanmu itu sifat-sifat-nya sangat berbeda dari sifat-sifat sempurna Tuhan yang aku sembah.",
+        "4": "Jika dua ayat sebelumnya menerangkan ketidaksamaan Tuhan Nabi Muhammad dan Tuhan orang kafir, dua ayat berikut menjelaskan ketidaksamaan peribadahan kepada keduanya. Dan aku tidak pernah menjadi penyembah apa yang kamu sembah karena kamu adalah orang-orang musyrik. Aku menyembah Tuhanku dengan bertauhid seperti yang Dia ajarkan kepadaku.",
+        "5": "Dan kamu tidak pernah pula menjadi penyembah apa yang aku sembah. Kamu tidak tunduk pada perintah dan syariat Allah dalam menyembah-Nya. Kamu bahkan menyembah tuhan dengan penuh kemusyrikan dan cara-cara yang kamu buat-buat berdasarkan hawa nafsumu.",
+        "6": "Tidak ada tukar-menukar dengan pengikut agama lain dalam hal peribadahan kepada Tuhan. Wahai orang kafir, untukmu agamamu, yakni kemusyrikan yang kamu yakini, dan untukku agamaku yang telah Allah pilihkan untukku sehingga aku tidak akan berpaling ke agama lain. Inilah jalan terbaik dalam hal toleransi antar umat beragama dalam urusan peribadahan kepada Tuhan."
+      }
+    }
+  }
+}

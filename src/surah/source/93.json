@@ -1,0 +1,67 @@
+{
+  "number": 93,
+  "name": "الضّحى",
+  "name_latin": "Aḍ-Ḍuḥā",
+  "name_id": "Ad-Duha",
+  "name_trans_id": "Duha",
+  "number_of_verse": 11,
+  "category": "Makkiyah",
+  "arabics": {
+    "1": "وَالضُّحٰىۙ",
+    "2": "وَالَّيْلِ اِذَا سَجٰىۙ",
+    "3": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلٰىۗ",
+    "4": "وَلَلْاٰخِرَةُ خَيْرٌ لَّكَ مِنَ الْاُوْلٰىۗ",
+    "5": "وَلَسَوْفَ يُعْطِيْكَ رَبُّكَ فَتَرْضٰىۗ",
+    "6": "اَلَمْ يَجِدْكَ يَتِيْمًا فَاٰوٰىۖ",
+    "7": "وَوَجَدَكَ ضَاۤلًّا فَهَدٰىۖ",
+    "8": "وَوَجَدَكَ عَاۤىِٕلًا فَاَغْنٰىۗ",
+    "9": "فَاَمَّا الْيَتِيْمَ فَلَا تَقْهَرْۗ",
+    "10": "وَاَمَّا السَّاۤىِٕلَ فَلَا تَنْهَرْ",
+    "11": "وَاَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ ࣖ"
+  },
+  "latins": {
+    "1": "Waḍ-ḍuḥā.",
+    "2": "Wal-laili iżā sajā.",
+    "3": "Mā wadda'aka rabbuka wa mā qalā.",
+    "4": "Wa lal-ākhiratu khairul laka minal-ūlā.",
+    "5": "Wa lasaufa yu'ṭīka rabbuka fa tarḍā.",
+    "6": "Alam yajidka yatīman fa āwā.",
+    "7": "Wa wajadaka ḍāllan fa hadā.",
+    "8": "Wa wajadaka 'ā'ilan fa agnā.",
+    "9": "Fa ammal-yatīma falā taqhar.",
+    "10": "Wa ammas-sā'ila falā tanhar.",
+    "11": "Wa ammā bini'mati rabbika fa ḥaddiṡ."
+  },
+  "translations": {
+    "id": {
+      "1": "Demi waktu duha",
+      "2": "dan demi waktu malam apabila telah sunyi,",
+      "3": "Tuhanmu (Nabi Muhammad) tidak meninggalkan dan tidak (pula) membencimu.",
+      "4": "Sungguh, akhirat itu lebih baik bagimu daripada yang permulaan (dunia).",
+      "5": "Sungguh, kelak (di akhirat nanti) Tuhanmu pasti memberikan karunia-Nya kepadamu sehingga engkau rida.",
+      "6": "Bukankah Dia mendapatimu sebagai seorang yatim, lalu Dia melindungi(-mu);",
+      "7": "mendapatimu sebagai seorang yang tidak tahu (tentang syariat), lalu Dia memberimu petunjuk (wahyu);",
+      "8": "dan mendapatimu sebagai seorang yang fakir, lalu Dia memberimu kecukupan?",
+      "9": "Terhadap anak yatim, janganlah engkau berlaku sewenang-wenang.",
+      "10": "Terhadap orang yang meminta-minta, janganlah engkau menghardik.",
+      "11": "Terhadap nikmat Tuhanmu, nyatakanlah (dengan bersyukur)."
+    }
+  },
+  "tafsirs": {
+    "id": {
+      "kemenag": {
+        "1": "Demi waktu duha ketika matahari naik sepenggalah, atau demi waktu siang seluruhnya. Penyebutan waktu duha mengisyaratkan bahwa tenggang waktu ketika Nabi tidak menerima wahyu beberapa lama bagaikan malam yang gelap, sedangkan turunnya surah ini setelah itu bagaikan fajar yang menyingsing.",
+        "2": "Dan demi malam apabila telah sunyi dan gelap. Ketika matahari bergeser ke tempat lain, belahan bumi yang ditinggalkannya beranjak tenang dan gelap, menjadi waktu yang tepat untuk istirahat.",
+        "3": "Wahai Nabi, tidak adanya wahyu yang turun kepadamu dalam beberapa hari ini bukan karena Allah membencimu. Tuhanmu yang telah memilihmu sebagai nabi dan rasul tidak akan meninggalkan engkau sendirian dalam menyampaikan risalah dan tidak pula membencimu.",
+        "4": "Dan sungguh, yang kemudian itu lebih baik bagimu dari yang permulaan. Akhirat beserta pahala yang Allah sediakan untukmu itu lebih baik daripada dunia ini. Kenikmatan akhirat bersifat abadi, sedangkan kehidupan dunia hanya sementara.",
+        "5": "Dan sungguh, kelak Tuhanmu pasti memberikan karunia-Nya yang berlimpah kepadamu, baik dalam urusan dunia seperti kesuksesan menyampaikan risalah, maupun di akhirat dengan pahala, hak memberi syafaat, dan sebagainya. Dia akan mencurahkan karunia kepadamu sehingga engkau menjadi puas karenanya.",
+        "6": "Bukankah Dia mendapatimu sebagai seorang yatim ketika kedua orang tuamu wafat, lalu Dia melindungimu dalam asuhan kakek dan pamanmu? Ayah Nabi wafat ketika beliau dalam kandungan dan ibunya wafat ketika beliau berumur 6 tahun. Allah melindungi Nabi dalam asuhan kakeknya, Abdul Muttalib, sampai usia 8 tahun, dilanjutkan oleh pamannya, Abu Talib, hingga sang paman wafat.",
+        "7": "Dan bukankah Dia juga mendapatimu sebelum menjadi nabi sebagai seorang yang bingung karena belum mengetahui akidah dan hukum yang benar, lalu Dia memberikan petunjuk melalui wahyu dan membimbingmu sampai akhir hayatmu?",
+        "8": "Dan bukankah Dia juga mendapatimu sebagai seorang yang kekurangan, lalu Dia memberikan kecukupan kepadamu dengan mengelola dagangan Khadijah dan dengan harta lainnya, seperti ganimah, serta membekalimu dengan sifat kanaah dan kesabaran atas pemberian-Nya?",
+        "9": "Dengan karunia Allah yang demikian agung itu, maka berbuat baiklah terhadap anak yatim dan janganlah engkau berlaku sewenang-wenang kepadanya, seperti mengambil hartanya, menghardiknya, dan menyakiti hatinya.",
+        "10": "Dan berbuat baiklah terhadap orang yang meminta-minta, baik meminta ilmu pengetahuan atau harta, dan janganlah engkau menghardiknya. Berilah mereka apa yang engkau mampu atau tolaklah dengan halus dan ramah.",
+        "11": "Dan terhadap nikmat Tuhanmu hendaklah engkau nyatakan dengan dibarengi rasa bersyukur. Allah telah memberimu nikmat yang tiada tara, seperti nikmat kenabian dan turunnya Al-Qur’an kepadamu. Sampaikan dan perlihatkanlah nikmat-nikmat Allah itu kepada orang lain sebagai bentuk rasa syukurmu kepada-Nya."
+      }
+    }
+  }
+}

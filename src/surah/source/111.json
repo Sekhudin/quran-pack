@@ -1,0 +1,43 @@
+{
+  "number": 111,
+  "name": "اللّهب",
+  "name_latin": "Al-Lahab",
+  "name_id": "Al-Lahab",
+  "name_trans_id": "Gejolak Api",
+  "number_of_verse": 5,
+  "category": "Makkiyah",
+  "arabics": {
+    "1": "تَبَّتْ يَدَآ اَبِيْ لَهَبٍ وَّتَبَّۗ",
+    "2": "مَآ اَغْنٰى عَنْهُ مَالُهٗ وَمَا كَسَبَۗ",
+    "3": "سَيَصْلٰى نَارًا ذَاتَ لَهَبٍۙ",
+    "4": "وَّامْرَاَتُهٗ ۗحَمَّالَةَ الْحَطَبِۚ",
+    "5": "فِيْ جِيْدِهَا حَبْلٌ مِّنْ مَّسَدٍ ࣖ"
+  },
+  "latins": {
+    "1": "Tabbat yadā abī lahabiw wa tabb(a).",
+    "2": "Mā agnā 'anhu māluhū wa mā kasab(a).",
+    "3": "Sayaṣlā nāran żāta lahab(in).",
+    "4": "Wamra'atuh(ū), ḥammālatal-ḥaṭab(i).",
+    "5": "Fī jīdihā ḥablum mim masad(in)."
+  },
+  "translations": {
+    "id": {
+      "1": "Binasalah kedua tangan Abu Lahab dan benar-benar binasa dia.763)",
+      "2": "Tidaklah berguna baginya hartanya dan apa yang dia usahakan.",
+      "3": "Kelak dia akan memasuki api yang bergejolak (neraka),",
+      "4": "(begitu pula) istrinya, pembawa kayu bakar (penyebar fitnah).",
+      "5": "Di lehernya ada tali dari sabut yang dipintal."
+    }
+  },
+  "tafsirs": {
+    "id": {
+      "kemenag": {
+        "1": "Karena kebenciannya kepada Nabi dan penentangannya terhadap dakwah beliau dengan cara yang menyakitkan, maka celaka dan binasalah kedua tangan Abu Lahab yakni diri Abu Lahab, yang bernama 'Abdul Uzz bin Abdul Muttalib; dan benar-benar binasa dia!",
+        "2": "Ketika azab Allah menimpanya maka tidaklah berguna baginya hartanya yang dia kumpulkan dan banggakan, dan tidak pula bermanfaat apa yang dia usahakan seperti jabatan dan keturunan untuk menyelamatkan dirinya dari azab itu. Hanya iman dan amal saleh yang dapat menyelamatkan seseorang dari murka Allah.",
+        "3": "Sebagai balasan atas kekejiannya kepada Nabi Muhammad dan dosa-dosanya yang lain, kelak dia akan masuk ke dalam api yang bergejolak dan membakar seluruh tubuhnya secara terus-menerus. Dia tidak akan pernah mati di dalamnya dan tidak pula akan keluar darinya.",
+        "4": "Abu Lahab akan masuk neraka, dan demikian pula istrinya, Ummu Jamil Arwa binti Harb bin Umayyah, sang pembawa kayu bakar berduri. Dia meletakkannya di sepanjang jalan yang dilalui Nabi untuk menjebak beliau. Dia juga gemar menyebar fitnah kepada Nabi dan para pengikutnya.",
+        "5": "Bentuk azab yang akan diterimanya di neraka sesuai dengan perilakunya sendiri. Di lehernya ada tali dari sabut yang dipintal. Dengan tali itu Allah menjerat lehernya dan mengangkatnya tinggi-tinggi, lalu mencampakkannya ke dasar neraka."
+      }
+    }
+  }
+}

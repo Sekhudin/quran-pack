@@ -1,0 +1,35 @@
+{
+  "number": 103,
+  "name": "العصر",
+  "name_latin": "Al-'Aṣr",
+  "name_id": "Al-'Asr",
+  "name_trans_id": "Masa",
+  "number_of_verse": 3,
+  "category": "Makkiyah",
+  "arabics": {
+    "1": "وَالْعَصْرِۙ",
+    "2": "اِنَّ الْاِنْسَانَ لَفِيْ خُسْرٍۙ",
+    "3": "اِلَّا الَّذِيْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ وَتَوَاصَوْا بِالْحَقِّ ەۙ وَتَوَاصَوْا بِالصَّبْرِ ࣖ"
+  },
+  "latins": {
+    "1": "Wal-'aṣr(i).",
+    "2": "Innal-insāna lafī khusr(in).",
+    "3": "Illal-lażīna āmanū wa 'amiluṣ-ṣāliḥāti wa tawāṣau bil-ḥaqq(i), wa tawāṣau biṣ-ṣabr(i)."
+  },
+  "translations": {
+    "id": {
+      "1": "Demi masa,",
+      "2": "sesungguhnya manusia benar-benar berada dalam kerugian,",
+      "3": "kecuali orang-orang yang beriman dan beramal saleh serta saling menasihati untuk kebenaran dan kesabaran."
+    }
+  },
+  "tafsirs": {
+    "id": {
+      "kemenag": {
+        "1": "Demi masa, waktu sore, atau salat Asar. Allah bersumpah dengan masa agar manusia memperhatikan masa dan memanfaatkannya dengan baik; bersumpah dengan waktu sore, sebagaimana dengan waktu duha, sebagai salah satu bukti kuasa Allah; dan bersumpah dengan salat Asar karena keutamaanya atas salat-salat yang lain.",
+        "2": "Sungguh, manusia berada dalam kerugian, baik di dunia maupun akhirat, akibat hawa nafsu yang menyelubungi dirinya.",
+        "3": "Semua manusia rugi, kecuali orang-orang yang beriman dengan sejati dan mengerjakan kebajikan sesuai ketentuan syariat dengan penuh keikhlasan, serta saling menasihati satu sama lain dengan baik dan bijaksana untuk memegang teguh kebenaran sebagaimana diajarkan oleh agama dan saling menasihati untuk kesabaran dalam melaksanakan kewajiban agama, menjauhi larangan, menghadapi musibah, dan menjalani kehidupan."
+      }
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "number": 61,
+  "name": "الصّفّ",
+  "name_latin": "Aṣ-Ṣaff",
+  "name_id": "As-Saff",
+  "name_trans_id": "Barisan",
+  "number_of_verse": 14,
+  "category": "Madaniyah",
+  "arabics": {
+    "1": "سَبَّحَ لِلّٰهِ مَا فِى السَّمٰوٰتِ وَمَا فِى الْاَرْضِۚ وَهُوَ الْعَزِيْزُ الْحَكِيْمُ",
+    "2": "يٰٓاَيُّهَا الَّذِيْنَ اٰمَنُوْا لِمَ تَقُوْلُوْنَ مَا لَا تَفْعَلُوْنَ",
+    "3": "كَبُرَ مَقْتًا عِنْدَ اللّٰهِ اَنْ تَقُوْلُوْا مَا لَا تَفْعَلُوْنَ",
+    "4": "اِنَّ اللّٰهَ يُحِبُّ الَّذِيْنَ يُقَاتِلُوْنَ فِيْ سَبِيْلِهٖ صَفًّا كَاَنَّهُمْ بُنْيَانٌ مَّرْصُوْصٌ",
+    "5": "وَاِذْ قَالَ مُوْسٰى لِقَوْمِهٖ يٰقَوْمِ لِمَ تُؤْذُوْنَنِيْ وَقَدْ تَّعْلَمُوْنَ اَنِّيْ رَسُوْلُ اللّٰهِ اِلَيْكُمْۗ فَلَمَّا زَاغُوْٓا اَزَاغَ اللّٰهُ قُلُوْبَهُمْۗ وَاللّٰهُ لَا يَهْدِى الْقَوْمَ الْفٰسِقِيْنَ",
+    "6": "وَاِذْ قَالَ عِيْسَى ابْنُ مَرْيَمَ يٰبَنِيْٓ اِسْرَاۤءِيْلَ اِنِّيْ رَسُوْلُ اللّٰهِ اِلَيْكُمْ مُّصَدِّقًا لِّمَا بَيْنَ يَدَيَّ مِنَ التَّوْرٰىةِ وَمُبَشِّرًاۢ بِرَسُوْلٍ يَّأْتِيْ مِنْۢ بَعْدِى اسْمُهٗٓ اَحْمَدُۗ فَلَمَّا جَاۤءَهُمْ بِالْبَيِّنٰتِ قَالُوْا هٰذَا سِحْرٌ مُّبِيْنٌ",
+    "7": "وَمَنْ اَظْلَمُ مِمَّنِ افْتَرٰى عَلَى اللّٰهِ الْكَذِبَ وَهُوَ يُدْعٰىٓ اِلَى الْاِسْلَامِۗ وَاللّٰهُ لَا يَهْدِى الْقَوْمَ الظّٰلِمِيْنَ",
+    "8": "يُرِيْدُوْنَ لِيُطْفِـُٔوْا نُوْرَ اللّٰهِ بِاَفْوَاهِهِمْۗ وَاللّٰهُ مُتِمُّ نُوْرِهٖ وَلَوْ كَرِهَ الْكٰفِرُوْنَ",
+    "9": "هُوَ الَّذِيْٓ اَرْسَلَ رَسُوْلَهٗ بِالْهُدٰى وَدِيْنِ الْحَقِّ لِيُظْهِرَهٗ عَلَى الدِّيْنِ كُلِّهٖۙ وَلَوْ كَرِهَ الْمُشْرِكُوْنَ ࣖ",
+    "10": "يٰٓاَيُّهَا الَّذِيْنَ اٰمَنُوْا هَلْ اَدُلُّكُمْ عَلٰى تِجَارَةٍ تُنْجِيْكُمْ مِّنْ عَذَابٍ اَلِيْمٍ",
+    "11": "تُؤْمِنُوْنَ بِاللّٰهِ وَرَسُوْلِهٖ وَتُجَاهِدُوْنَ فِيْ سَبِيْلِ اللّٰهِ بِاَمْوَالِكُمْ وَاَنْفُسِكُمْۗ ذٰلِكُمْ خَيْرٌ لَّكُمْ اِنْ كُنْتُمْ تَعْلَمُوْنَۙ",
+    "12": "يَغْفِرْ لَكُمْ ذُنُوْبَكُمْ وَيُدْخِلْكُمْ جَنّٰتٍ تَجْرِيْ مِنْ تَحْتِهَا الْاَنْهٰرُ وَمَسٰكِنَ طَيِّبَةً فِيْ جَنّٰتِ عَدْنٍۗ ذٰلِكَ الْفَوْزُ الْعَظِيْمُۙ",
+    "13": "وَاُخْرٰى تُحِبُّوْنَهَاۗ نَصْرٌ مِّنَ اللّٰهِ وَفَتْحٌ قَرِيْبٌۗ وَبَشِّرِ الْمُؤْمِنِيْنَ",
+    "14": "يٰٓاَيُّهَا الَّذِيْنَ اٰمَنُوْا كُوْنُوْٓا اَنْصَارَ اللّٰهِ كَمَا قَالَ عِيْسَى ابْنُ مَرْيَمَ لِلْحَوَارِيّٖنَ مَنْ اَنْصَارِيْٓ اِلَى اللّٰهِ ۗقَالَ الْحَوَارِيُّوْنَ نَحْنُ اَنْصَارُ اللّٰهِ فَاٰمَنَتْ طَّاۤىِٕفَةٌ مِّنْۢ بَنِيْٓ اِسْرَاۤءِيْلَ وَكَفَرَتْ طَّاۤىِٕفَةٌ ۚفَاَيَّدْنَا الَّذِيْنَ اٰمَنُوْا عَلٰى عَدُوِّهِمْ فَاَصْبَحُوْا ظٰهِرِيْنَ ࣖ"
+  },
+  "latins": {
+    "1": "Sabbaḥa lillāhi mā fis-samāwāti wa mā fil-arḍ(i), wa huwal-'azīzul-ḥakīm(u).",
+    "2": "Yā ayyuhal-lażīna āmanū lima taqūlūna mā lā taf'alūn(a).",
+    "3": "Kabura maqtan 'indallāhi an taqūlū mā lā taf'alūn(a).",
+    "4": "Innallāha yuḥibbul-lażīna yuqātilūna fī sabīlihī ṣaffan ka'annahum bun-yānum marṣūṣ(un).",
+    "5": "Wa iż qāla mūsā liqaumihī yā qaumi lima tu'żūnanī wa qad ta'lamūna annī rasūlullāhi ilaikum, falammā zāgū azāgallāhu qulūbahum, wallāhu lā yahdil-qaumal-fāsiqīn(a).",
+    "6": "Wa iż qāla 'īsabnu maryama yā banī isrā'īla innī rasūlullāhi ilaikum muṣaddiqal limā baina yadayya minat-taurāti wa mubasysyiram birasūliy ya'tī mim ba'dismuhū aḥmad(u), falammā jā'ahum bil-bayyināti qālū hāżā siḥrum mubīn(un).",
+    "7": "Wa man aẓlamu mimmaniftarā 'alallāhil-każiba wa huwa yud'ā ilal-islām(i), wallāhu lā yahdil-qaumaẓ-ẓālimīn(a).",
+    "8": "Yurīdūna liyuṭfi'ū nūrallāhi bi'afwāhihim, wallāhu mutimmu nūrihī wa lau karihal-kāfirūn(a).",
+    "9": "Wa huwal-lażī arsala rasūlahū bil-hudā wa dīnil-ḥaqqi  liyuẓhirahū 'alad-dīni kullih(ī), wa lau karihal-musyrikūn(a).",
+    "10": "Yā ayyuhal-lażīna āmanū hal adullukum 'alā tijāratin tunjīkum min 'ażābin alīm(in).",
+    "11": "Tu'minūna billāhi wa rasūlihī wa tujāhidūna fī sabīlillāhi bi'amwālikum wa anfusikum, żālikum khairul lakum in kuntum ta'lamūn(a).",
+    "12": "Yagfir lakum żunūbakum wa yudkhilkum jannātin tajrī min taḥtihal-anhāru wa masākina ṭayyibatan fī jannāti 'adn(in), żālikal-fauzul-'aẓīm(u).",
+    "13": "Wa ukhrā tuḥibbūnahā, naṣrum minallāhi wa fatḥun qarīb(un), wa basysyiril-mu'minīn(a).",
+    "14": "Yā ayyuhal-lażīna āmanū kūnū anṣārallāhi kamā qāla 'īsabnu maryama lil-ḥawāriyyīna man anṣārī ilallāh(i), qālal-ḥawāriyyūna naḥnu anṣārullāhi fa'āmanaṭ-ṭā'ifatum mim banī isrā'īla wa kafaraṭ-ṭā'ifah(tun), fa'ayyadnal-lażīna āmanū 'alā 'aduwwihim fa'aṣbaḥū ẓāhirīn(a)."
+  },
+  "translations": {
+    "id": {
+      "1": "Apa yang ada di langit dan apa yang ada di bumi bertasbih kepada Allah. Dialah Yang Maha Perkasa lagi Maha Bijaksana.",
+      "2": "Wahai orang-orang yang beriman, mengapa kamu mengatakan sesuatu yang tidak kamu kerjakan?",
+      "3": "Sangat besarlah kemurkaan di sisi Allah bahwa kamu mengatakan apa yang tidak kamu kerjakan.",
+      "4": "Sesungguhnya Allah mencintai orang-orang yang berperang di jalan-Nya dalam satu barisan, seakan-akan mereka suatu bangunan yang tersusun kukuh.",
+      "5": "(Ingatlah) ketika Musa berkata kepada kaumnya, “Wahai kaumku, mengapa kamu menyakitiku? Padahal, kamu sungguh mengetahui bahwa aku adalah utusan Allah kepadamu.” Maka, ketika mereka berpaling (dari perintah Allah), Allah memalingkan hati mereka (dari kebenaran).716) Allah tidak memberi petunjuk kepada kaum yang fasik.",
+      "6": "(Ingatlah) ketika Isa putra Maryam berkata, “Wahai Bani Israil, sesungguhnya aku adalah utusan Allah kepadamu untuk membenarkan kitab (yang turun) sebelumku, yaitu Taurat, dan memberi kabar gembira tentang seorang utusan Allah yang akan datang setelahku yang namanya Ahmad (Nabi Muhammad).”  Akan tetapi, ketika utusan itu datang kepada mereka dengan membawa bukti-bukti yang nyata, mereka berkata, “Ini adalah sihir yang nyata.”",
+      "7": "Siapakah yang lebih zalim daripada orang yang mengada-adakan kebohongan terhadap Allah, padahal dia diseru kepada (agama) Islam? Allah tidak memberi petunjuk kepada kaum yang zalim.",
+      "8": "Mereka hendak memadamkan cahaya (agama) Allah dengan mulut mereka, sedangkan Allah tetap menyempurnakan cahaya-Nya walaupun orang-orang kafir tidak menyukai.",
+      "9": "Dialah yang mengutus Rasul-Nya dengan (membawa) petunjuk dan agama yang benar agar Dia mengunggulkannya atas semua agama walaupun orang-orang musyrik tidak menyukai.",
+      "10": "Wahai orang-orang yang beriman, maukah kamu Aku tunjukkan suatu perdagangan yang (dapat) menyelamatkan kamu dari azab yang pedih?",
+      "11": "(Caranya) kamu beriman kepada Allah dan Rasul-Nya dan berjihad di jalan Allah dengan harta dan jiwamu. Yang demikian itu lebih baik bagimu jika kamu mengetahui.",
+      "12": "(Jika kamu beriman dan berjihad,) niscaya Allah mengampuni dosa-dosamu dan memasukkanmu ke dalam surga yang mengalir di bawahnya sungai-sungai dan ke tempat-tempat tinggal yang baik di dalam surga 'Adn. Itulah kemenangan yang agung.",
+      "13": "(Ada balasan) lain yang kamu sukai, (yaitu) pertolongan dari Allah dan kemenangan yang dekat (waktunya). Sampaikanlah berita gembira kepada orang-orang mukmin.",
+      "14": "Wahai orang-orang yang beriman, jadilah penolong-penolong (agama) Allah sebagaimana Isa putra Maryam berkata kepada pengikut-pengikutnya yang setia, “Siapakah para penolongku menuju kepada (pertolongan) Allah?” Para pengikutnya yang setia itu berkata, “Kamilah penolong-penolong (agama) Allah.” Maka, segolongan dari Bani Israil beriman dan segolongan (yang lain) kufur. Lalu, Kami menguatkan orang-orang yang beriman menghadapi musuh-musuh mereka sehingga menjadi orang-orang yang menang."
+    }
+  },
+  "tafsirs": {
+    "id": {
+      "kemenag": {
+        "1": "Apa yang ada di langit, bintang, bulan, matahari, dan seluruh planet; dan apa yang ada di bumi, hewan dan tetumbuhan bertasbih kepada Allah, mengakui dan menyatakan kemahasucian Allah yang berbeda dengan seluruh makhluk ciptaan-Nya; dan Dialah Yang Mahaperkasa menciptakan dan menghancurkan jagat raya sekejap mata; Mahabijaksana, tidak terburu menggunakan kekuasaan-Nya yang tiada terbatas untuk menghancurkan jagat raya atau menghukum manusia yang berdosa.",
+        "2": "Wahai orang-orang yang beriman kepada Allah dan Rasul-Nya! Mengapa kamu mengatakan secara terbuka di hadapan orang banyak atau secara tertutup sesuatu yang tidak kamu kerjakan? Apakah kamu merasa tidak bersalah melakukannya?",
+        "3": "Perbuatan kamu, wahai orang-orang yang beriman, yang tidak melakukan apa yang sudah dikatakan atau disampaikan kepada orang lain sangatlah dibenci di sisi Allah, jika kamu mengikuti kebiasaan orang-orang munafik, mengatakan apa-apa yang tidak kamu kerjakan, bermuka dua, tidak ada kesatuan kata dan perbuatan dan tidak ada integritas.",
+        "4": "Ayat ini menyatakan bahwa Allah suka kepada orang-orang yang berjihad dalam barisan yang teratur. Sesungguhnya Allah mencintai orang-orang yang berperang di jalan-Nya untuk membela diri dan membela kehormatan Islam dan kaum muslim dalam barisan yang teratur, kuat, militan, dan terorganisir dengan baik; mereka seakan-akan dalam membangun kekuatan umat seperti suatu bangunan yang tersusun kokoh, saling menguatkan komponen umat muslim yang satu terhadap komponen umat muslim lainnya.",
+        "5": "Allah selanjutnya berbicara tentang orang-orang fasik yang menyakiti Nabi Musa karena pembangkangannya. Dan ingatlah wahai Muhammad, ketika Musa berkata kepada kaumnya, Bani Israil, “Wahai kaumku! Mengapa kamu menyakitiku dengan menyembah patung anak sapi ketika aku munajat kepada Allah di Gunung Sinai, dan menolak berjihad, padahal Allah menjanjikan kemenangan kepada kamu untuk masuk ke Yerussalem. Apakah kamu tidak menyadari, padahal kamu sungguh mengetahui, bahwa sesungguhnya aku utusan Allah kepadamu untuk mengajarkan prinsip tiada tuhan selain Allah, tiada ibadah kecuali kepada-Nya, dan tidak mempertuhankan manusia?” Maka ketika mereka berpaling dari kebenaran dengan menutup mata, telinga, pikiran, dan hati, maka Allah pun memalingkan hati mereka dari kebenaran dan membiarkan mereka sesat sehingga mereka bertambah jauh dari kebenaran. Dan Allah tidak akan memberi petunjuk kepada kaum yang fasik, yaitu yang terus-menerus berbuat dosa besar, tanpa merasa bersalah.",
+        "6": "Ayat ini membicarakan umat Nabi Isa yang menolak beriman kepada Nabi Muhammad, padahal Allah sudah memberitahukan tentang kelahiran beliau di dalam Injil. Dan ingatlah wahai Muhammad, ketika Isa putra Maryam berkata kepada kaumnya, “Wahai Bani Israil! Sesungguhnya aku utusan Allah kepadamu untuk mengajarkan prinsip tiada tuhan selain Allah, tiada ibadah kecuali kepada-Nya, dan tidak mempertuhankan sesama manusia yang membenarkan kitab yang turun sebelumku, yaitu Kitab Taurat yang diturunkan kepada Nabi Musa dan memberi kabar gembira kepada kamu dengan seorang rasul yang akan datang setelahku, yang bernama Ahmad dan/atau Muhammad yang merupakan nabi dan rasul terakhir; namun ketika Rasul itu datang kepada mereka, kaum Nasrani, dengan membawa bukti-bukti yang nyata tentang kenabian dan kerasulan beliau di dalam Al-Qur’an, mereka berkata kepada sesama orang-orang Kristen, “Al-Qur’an ini adalah sihir yang nyata, bukan wahyu Allah, bukan kitab suci.”",
+        "7": "Dan siapakah yang lebih zalim, yakni tidak ada yang paling zalim, daripada orang yang mengada-adakan kebohongan terhadap Allah dengan meyakini konsep trinitas, Tuhan Bapak, Tuhan Yesus, dan Tuhan Bunda Maria; padahal dia, orang yang meyakini konsep trinitas itu diajak kepada agama Islam? Dan Allah tidak akan memberikan petunjuk kepada orang-orang yang zalim, yaitu orang-orang yang menyekutukan atau mengada-adakan kebohongan tentang Allah.",
+        "8": "Mereka, orang-orang yang mengada-adakan kebohongan tentang Allah, hendak memadamkan cahaya agama Allah yang menekankan prinsip tauhid, prinsip tidak ada tuhan selain Allah, prinsip tidak dibenarkan beribadah kecuali kepada-Nya dan prinsip tidak ada manusia yang mempertuhankan manusia dengan mulut, ucapan-ucapan mereka, bahkan dengan sikap dan tindakan mereka, tetapi Allah tetap menyempurnakan cahaya, agama-Nya dengan menurunkan wahyu, mengutus rasul dan memerintahkan rasul, mengajak umat meyakininya, meskipun orang-orang kafir membencinya dan merintanginya dengan berbagai cara.",
+        "9": "Dialah yang mengutus Rasul-Nya dengan membawa petunjuk dan agama yang benar, prinsip tauhid yang lurus untuk memenangkannya di atas segala agama yang bertentangan dengan prinsip tauhid, mempertuhankan manusia dan tidak memanusiakan manusia, meskipun orang-orang musyrik membencinya, bahkan merintanginya dengan berbagai cara.",
+        "10": "Wahai orang-orang yang beriman di mana pun dan pada zaman apa pun kamu hidup! Maukah kamu Aku tunjukkan melalui bimbingan Rasulullah suatu perdagangan yang dapat menyelamatkan kamu dari azab yang pedih di akhirat?",
+        "11": "Bisnis yang menyelamatkan manusia dari azab itu adalah kamu beriman kepada Allah dan Rasul-Nya dengan mantap dan kokoh dan berjihad di jalan Allah, yaitu berusaha sekuat tenaga untuk mengharumkan Islam dan kaum muslim, serta membela hak, martabat dan kehormatan kaum muslim dari serangan musuh-musuh Islam dengan harta dan jiwa kamu hingga kamu mati syahid. Itulah yang lebih baik bagi kamu, dalam berbisnis dengan Allah, jika kamu mengetahui, kebaikan dan keuntungan beriman dan berjihad dengan benar.",
+        "12": "Keuntungan yang bisa kamu peroleh dengan perniagaan itu adalah niscaya Allah mengampuni dosa-dosamu, baik dosa yang disengaja maupun yang tidak disengaja dan memasukkan kamu ke dalam surga di akhirat yang penuh kenikmatan, yang mengalir di bawahnya sungai-sungai, sehingga kehidupan terasa indah dan menyenangkan; dan juga Allah memasukkan kamu ke tempat-tempat tinggal yang baik di dalam surga 'Adn sehingga kenikmatan terasa di atas kenikmatan. Itulah kemenangan yang besar, karena keputusan yang tepat selama hidup di dunia untuk beriman dan berjihad.",
+        "13": "Bagi orang yang beriman dan berjihad selain mendapat ampunan dan masuk surga 'Adn juga akan mendapat keuntungan lain yang sangat berharga. Dan ada lagi karunia yang lain yang kamu sukai dari keuntungan beriman dan berjihad pada jalan Allah, yaitu pertolongan dari Allah dalam menghadapi musuh-musuh Islam dan kaum muslim sehingga Islam menjadi harum; dan kemenangan yang dekat waktunya untuk meraih kekuasaan dalam mengatur kehidupan ini. Dan sampaikanlah berita gembira kepada orang-orang mukmin karena dengan beriman dan berjihad mereka akan mendapat pertolongan dan kemenangan di dunia dan mendapat ampunan dan surga di akhirat.",
+        "14": "Wahai orang-orang yang beriman! Di mana pun dan kapan pun kamu hidup, jadilah kamu penolong-penolong agama Allah dengan memahami, mengamalkan, dan mengharumkan Islam dan kaum muslim, serta berjihad membela hak dan kehormatan Islam sebagaimana Isa putra Maryam telah berkata kepada pengikut-pengikutnya yang setia, kaum hawariyun, “Siapakah yang akan menjadi penolong-penolongku untuk menegakkan agama Allah dalam kehidupan ini?” Pengikut-pengikutnya yang setia itu berkata kepada Nabi Isa dengan meyakinkan, “Kamilah penolong-penolong agama Allah.” Mereka menyampaikan ajaran Allah kepada masyarakat dan mengajak masyarakat beriman dan mengamalkannya; lalu segolongan dari Bani Israil beriman kepada Allah dan mengikuti ajaran Nabi Isa dengan setia; dan segolongan yang lain yang jumlahnya jauh lebih banyak memilih kafir, yaitu menjadi orang yang menutup diri, menolak, dan mendustakan ajaran Nabi Isa, bahkan berusaha menghalangi penyebaran ajarannya dan membunuh para juru dakwahnya. Orang beriman itu bermunajat kepada Kami, lalu Kami memberikan kekuatan kepada orang-orang yang beriman terhadap musuh-musuh mereka dengan menghilangan perasaan lemah, takut, dan ragu untuk berjihad sehingga mereka menjadi orang-orang yang menang dalam menghadapi musuh."
+      }
+    }
+  }
+}

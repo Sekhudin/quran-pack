@@ -1,0 +1,59 @@
+{
+  "number": 104,
+  "name": "الهمزة",
+  "name_latin": "Al-Humazah",
+  "name_id": "Al-Humazah",
+  "name_trans_id": "Pengumpat",
+  "number_of_verse": 9,
+  "category": "Makkiyah",
+  "arabics": {
+    "1": "وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍۙ",
+    "2": "ۨالَّذِيْ جَمَعَ مَالًا وَّعَدَّدَهٗۙ",
+    "3": "يَحْسَبُ اَنَّ مَالَهٗٓ اَخْلَدَهٗۚ",
+    "4": "كَلَّا لَيُنْۢبَذَنَّ فِى الْحُطَمَةِۖ",
+    "5": "وَمَآ اَدْرٰىكَ مَا الْحُطَمَةُ ۗ",
+    "6": "نَارُ اللّٰهِ الْمُوْقَدَةُۙ",
+    "7": "الَّتِيْ تَطَّلِعُ عَلَى الْاَفْـِٕدَةِۗ",
+    "8": "اِنَّهَا عَلَيْهِمْ مُّؤْصَدَةٌۙ",
+    "9": "فِيْ عَمَدٍ مُّمَدَّدَةٍ ࣖ"
+  },
+  "latins": {
+    "1": "Wailul likulli humazatil-lumazah(tin).",
+    "2": "Allażī jama'a mālaw wa 'addadah(ū).",
+    "3": "Yaḥsabu anna mālahū akhladah(ū).",
+    "4": "Kallā layumbażanna fil-ḥuṭamah(ti).",
+    "5": "Wa mā adrāka mal-ḥuṭamah(tu).",
+    "6": "Nārullāhil-mūqadah(tu).",
+    "7": "Allatī taṭṭali'u 'alal-af'idah(ti).",
+    "8": "Innahā 'alaihim mu'ṣadah(tun).",
+    "9": "Fī 'amadim mumaddadah(tin)."
+  },
+  "translations": {
+    "id": {
+      "1": "Celakalah setiap pengumpat lagi pencela",
+      "2": "yang mengumpulkan harta dan menghitung-hitungnya.",
+      "3": "Dia (manusia) mengira bahwa hartanya dapat mengekalkannya.",
+      "4": "Sekali-kali tidak! Pasti dia akan dilemparkan ke dalam (neraka) Hutamah.",
+      "5": "Tahukah kamu apakah (neraka) Hutamah?",
+      "6": "(Ia adalah) api (azab) Allah yang dinyalakan",
+      "7": "yang (membakar) naik sampai ke hati.",
+      "8": "Sesungguhnya dia (api itu) tertutup rapat (sebagai hukuman) atas mereka,",
+      "9": "(sedangkan mereka) diikat pada tiang-tiang yang panjang."
+    }
+  },
+  "tafsirs": {
+    "id": {
+      "kemenag": {
+        "1": "Celakalah bagi setiap pengumpat atau pencaci, baik dengan ucapan atau isyarat, dan demikian pula pencela dengan menampilkan keburukan orang lain untuk menghinakannya. Perbuatan ini berdampak buruk dalam pergaulan karena mencoreng wibawa dan kehormatan seseorang, serta menghilangkan kepercayaan kepada orang tersebut.",
+        "2": "Celakalah orang yang sifatnya demikian, yang selalu menyibukkan diri dan berorientasi pada mengumpulkan harta benda dan menghitung-hitungnya. Dia merasa nyaman untuk menumpuk dan menghitung harta untuk menjamin kehidupannya di masa datang, dan enggan me-nunaikan hak Allah dalam hartanya itu.",
+        "3": "Dia senang dan sibuk mengumpulkan harta karena mengira bahwa hartanya itu dapat mengekalkan hidup-nya di dunia. Dia terbuai oleh hartanya dan lupa bahwa harta sebanyak apa pun tidak akan dapat digunakan untuk menolak datangnya sesuatu yang tidak diinginkannya, yaitu kematian.",
+        "4": "Sekali-kali tidak! Harta itu tidak akan menolak datangnya kematian kepadanya. Setelah mati dan dihisab atas perbuatan buruknya itu, pasti dia akan dilemparkan dan dicampakkan dengan hina ke dalam neraka Hutamah oleh para malaikat Zabaniah yang bengis, kasar, dan galak.",
+        "5": "Dan tahukah kamu apakah neraka Hutamah itu? Demikian pertanyaan Allah guna menarik perhatian serius manusia terhadap apa yang disampaikan-Nya.",
+        "6": "Hutamah ialah api azab Allah yang dinyalakan,",
+        "7": "yang panasnya menembus dada manusia sampai ke hati lalu membakarnya. Hati adalah organ yang paling sensitif terhadap rasa sakit dalam kadar kecil sekalipun, lalu bagaimana bila api neraka itu sampai membakarnya hingga lebur?",
+        "8": "Sungguh, api itu ditutup rapat atas diri mereka yang suka mengumpat, mencela, mengumpulkan harta, dan menghitung-hitungnya. Tidak ada celah sedikit pun yang memungkinkan udara dari luar merembes masuk. Akibatnya, kadar panas api itu tidak pernah turun, bahkan terus naik.",
+        "9": "Para pendosa itu diikat dengan erat pada tiang-tiang yang panjang hingga mereka tidak dapat bergerak sedikit pun di Hutamah itu, apa lagi keluar darinya."
+      }
+    }
+  }
+}

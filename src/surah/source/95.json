@@ -1,0 +1,55 @@
+{
+  "number": 95,
+  "name": "التّين",
+  "name_latin": "At-Tīn",
+  "name_id": "At-Tin",
+  "name_trans_id": "Buah Tin",
+  "number_of_verse": 8,
+  "category": "Makkiyah",
+  "arabics": {
+    "1": "وَالتِّيْنِ وَالزَّيْتُوْنِۙ",
+    "2": "وَطُوْرِ سِيْنِيْنَۙ",
+    "3": "وَهٰذَا الْبَلَدِ الْاَمِيْنِۙ",
+    "4": "لَقَدْ خَلَقْنَا الْاِنْسَانَ فِيْٓ اَحْسَنِ تَقْوِيْمٍۖ",
+    "5": "ثُمَّ رَدَدْنٰهُ اَسْفَلَ سٰفِلِيْنَۙ",
+    "6": "اِلَّا الَّذِيْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ فَلَهُمْ اَجْرٌ غَيْرُ مَمْنُوْنٍۗ",
+    "7": "فَمَا يُكَذِّبُكَ بَعْدُ بِالدِّيْنِۗ",
+    "8": "اَلَيْسَ اللّٰهُ بِاَحْكَمِ الْحٰكِمِيْنَ ࣖ"
+  },
+  "latins": {
+    "1": "Wat-tīni waz-zaitūn(i).",
+    "2": "Wa ṭūri sīnīn(a).",
+    "3": "Wa hāżal-baladil-amīn(i).",
+    "4": "Laqad khalaqnal-insāna fī aḥsani taqwīm(in).",
+    "5": "Ṡumma radadnāhu asfala sāfilīn(a).",
+    "6": "Illal-lażīna āmanū wa 'amiluṣ-ṣāliḥāti falahum ajrun gairu mamnūn(in).",
+    "7": "Famā yukażżibuka ba'du bid-dīn(i).",
+    "8": "Alaisallāhu bi'aḥkamil-ḥākimīn(a)."
+  },
+  "translations": {
+    "id": {
+      "1": "Demi (buah) tin dan (buah) zaitun,",
+      "2": "demi gunung Sinai,",
+      "3": "dan demi negeri (Makkah) yang aman ini,",
+      "4": "sungguh, Kami benar-benar telah menciptakan manusia dalam bentuk yang sebaik-baiknya.",
+      "5": "Kemudian, kami kembalikan dia ke tempat yang serendah-rendahnya,",
+      "6": "kecuali orang-orang yang beriman dan mengerjakan kebajikan. Maka, mereka akan mendapat pahala yang tidak putus-putusnya.",
+      "7": "Maka, apa alasanmu (wahai orang kafir) mendustakan hari Pembalasan setelah (adanya bukti-bukti) itu?",
+      "8": "Bukankah Allah hakim yang paling adil?"
+    }
+  },
+  "tafsirs": {
+    "id": {
+      "kemenag": {
+        "1": "Demi buah Tin dan Zaitun,",
+        "2": "demi gunung Sinai,",
+        "3": "dan demi negeri Mekah yang aman ini. Buah Tin dan Zaitun banyak tumbuh di Syam dan Baitul makdis, tempat para nabi diutus, antara lain Nabi Isa. Gunung Sinai adalah tempat Nabi Musa bermunajat, sedangkan Mekah adalah tempat kelahiran dan pengutusan Nabi Muhammad. Ketiga nabi ini memiliki misi yang sama, yaitu mengajak manusia menuju tauhid.",
+        "4": "Sungguh, Kami telah menciptakan manusia dalam bentuk fisik yang sebaik-baiknya, jauh lebih sempurna daripada hewan. Kami juga bekali mereka dengan akal dan sifat-sifat yang unggul. Dengan kelebihan-kelebihan itulah Kami amanati manusia sebagai khalifah di bumi.",
+        "5": "Kemudian Kami kembalikan dia ke tempat yang serendah-rendahnya, yaitu ke neraka, bila mereka durhaka kepada Allah dan tidak menaati utusan-Nya. Ketika itu, kesempurnaan fisik, akal, dan sifat mereka tidak akan menyelamatkannya dari azab Allah.",
+        "6": "Kami masukkan manusia ke neraka, kecuali orang-orang yang benar-benar beriman dan mengerjakan kebajikan, baik spiritual maupun sosial, secara ikhlas dan sesuai syariat Islam; maka mereka akan mendapat pahala yang tidak ada putus-putusnya dan tidak pula berkurang. Kami selamatkan mereka dari neraka dan Kami berikan itu semua kepada mereka sebagai ganjaran dari Kami.",
+        "7": "Allah menciptakanmu dengan bentuk yang sempurna dari setetes mani yang menjadi janin, kemudian melewati berbagai tahap dari bayi, remaja, dewasa, tua, hingga meninggal. Itu merupakan dalil yang paling jelas tentang kekuasaan Allah; bahwa Dia kuasa untuk membangkitkanmu dari kematian. Maka, apa yang menyebabkan mereka mendustakanmu tentang hari pembalasan yaitu hari kiamat setelah adanya keterangan-keterangan yang gamblang itu?",
+        "8": "Bukankah Allah adalah hakim yang paling adil? Jangan kaukira Allah menciptakan manusia secara sia-sia dengan tidak memberinya perintah dan larangan. Allah telah menurunkan aturan syariat. Dia akan memberi putusan dengan adil; memberi pahala kepada orang yang taat dan menghukum orang yang bersalah."
+      }
+    }
+  }
+}
