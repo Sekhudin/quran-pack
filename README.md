@@ -51,12 +51,16 @@ import { Surah } from 'quran-pack';
 
 ```typescript
 const quran = Quran('Al-Fatihah');
+// or
+const quran1 = Quran(1);
 ```
 
 or
 
 ```typescript
 const quran = new Surah('Al-Fatihah');
+// or
+const quran1 = new Surah(1);
 ```
 
 #### Accessing property:
