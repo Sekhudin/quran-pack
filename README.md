@@ -5,7 +5,7 @@ This package uses the nodejs fs package so it can only be used on nodejs.
 
 ### Installation
 
-Install package using npm
+Install package using npm.
 
 ```typescript
 npm i quran-pack
@@ -83,6 +83,7 @@ quran.tafsirs; // object
 ```
 
 #### Surah list
+
 ```typescript
 Quran.surahList; // list of surah
 ```
@@ -92,7 +93,85 @@ Quran.surahList; // list of surah
 ```typescript
 const quran = Quran.surah('Al-Fatihah');
 const verse = quran.getVerse(5); // return object surah al-fatihah verse 5.
-const verses = quran.getVerses(1, 5); // return object surah alfatihah from verse 1 until verse 5, because the limit are 5 verses.
+const verses = quran.getVerses(1, 3); // return object surah alfatihah from verse 1 until verse 3, because the limit are 3 verses.
+```
+
+Result `Quran.surah('Al-Fatihah').getVesrse(5);`, its mean Al-Fatihah verse 5.
+
+```typescript
+{
+  arabic: 'اِيَّاكَ نَعْبُدُ وَاِيَّاكَ نَسْتَعِيْنُۗ',
+  latin: "Iyyāka na'budu wa iyyāka nasta'īn(u),",
+  translation: {
+    id: 'Hanya kepada Engkaulah kami menyembah ...'
+  },
+  tafsir: {
+    id: {
+      kemenag: 'Atas dasar itu semua, ...'
+    }
+  }
+}
+```
+
+Result `Quran.surah('Al-Fatihah').getVesrses(1, 3);`, Al-Fatihah verses 1 - 3.
+
+```typescript
+{
+  hasPrev: false,
+  hasNext: true,
+  arabics: {
+    '1': 'بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ',
+    '2': 'اَلْحَمْدُ لِلّٰهِ رَبِّ الْعٰلَمِيْنَۙ',
+    '3': 'الرَّحْمٰنِ الرَّحِيْمِۙ'
+  },
+  latins: {
+    '1': 'Bismillāhir-raḥmānir-raḥīm(i).',
+    '2': "Al-ḥamdu lillāhi rabbil-'ālamīn(a).",
+    '3': 'Ar-raḥmānir-raḥīm(i).'
+  },
+  translations: {
+    id: {
+      '1': 'Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang.',
+      '2': 'Segala puji bagi Allah, Tuhan1) semesta alam',
+      '3': 'Yang Maha Pengasih lagi Maha Penyayang,'
+    }
+  },
+  tafsirs: {
+    id: {
+      kemenag: {
+        '1': "Aku memulai bacaan Al-Qur'an ...",
+        '2': "Segala puji kita persembahkan hanya untuk Allah semata ...",
+        '3': "Dialah Yang Maha Pengasih, ...",
+      }
+    }
+  }
+}
+```
+
+Result `Quran.listSurah`.
+
+```typescript
+[
+  {
+    number: 1,
+    name: 'الفاتحة',
+    name_latin: 'Al-Fātiḥah',
+    name_id: 'Al-Fatihah',
+    name_trans_id: 'Pembuka',
+    number_of_verse: 7,
+    category: 'Makkiyah',
+  },
+  {
+    number: 2,
+    name: 'البقرة',
+    name_latin: 'Al-Baqarah',
+    name_id: 'Al-Baqarah',
+    name_trans_id: 'Sapi',
+    number_of_verse: 286,
+    category: 'Madaniyah',
+  },
+  ...
+];
 ```
 
 ### Extensible Surah class
@@ -118,6 +197,6 @@ class MySurah extends Surah {
 }
 
 const quran = new MySurah(1);
-quran.theMethod();
-quran.anotherMethod();
+quran.theMethod(); // output
+quran.anotherMethod(); // output
 ```

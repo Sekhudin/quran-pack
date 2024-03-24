@@ -1,6 +1,6 @@
 {
   "name": "quran-pack",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "description": "Quran package is sourced from the website of the Ministry of Religion of the Republic of Indonesia.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
