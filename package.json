@@ -1,7 +1,7 @@
 {
-  "name": "al-bayan",
+  "name": "quran-pack",
   "version": "0.0.1",
-  "description": "",
+  "description": "Quran package is sourced from the website of the Ministry of Religion of the Republic of Indonesia.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": ["dist"],
@@ -15,12 +15,26 @@
   },
   "keywords": [
     "quran",
+    "quran-id",
+    "quran-kemenag",
+    "quran-translation",
+    "quran-api",
+    "quran-json",
     "surah",
+    "surah-verse",
     "moeslim",
-    "package",
-    "typescript",
-    "javascript"
+    "arabic",
+    "islamic",
+    "surah",
+    "ayah",
+    "verse",
+    "books",
+    "utility"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sekhudin/quran-pack"
+  },
   "author": "Sekhudin",
   "license": "ISC",
   "devDependencies": {

@@ -7,10 +7,12 @@ type SurahBuilderFN = (v: SurahNameID | number) => {
   verses: SurahVerses;
 };
 
+const isValidSurahNumber = (v: number): boolean => v >= 1 && v <= 114;
+
 const surahBuilder: SurahBuilderFN = (value) => {
   let surah: SurahList[number] | null = null;
   if (typeof value === 'number') {
-    if (value <= 0 || value > 144) throw new Error('Invalid surah number');
+    if (!isValidSurahNumber(value)) throw new Error('Invalid surah number');
     const _tempSurah = surahList.filter((_v) => _v.number === value);
     if (_tempSurah.length === 1) {
       surah = _tempSurah[0];

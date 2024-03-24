@@ -1,13 +1,13 @@
 import { kemenag, SurahResponse, TafsirResponse } from '../lib/axios-client';
 import writeFile from '../util/write-file';
-import surahVerses from '../surah/surah-verses';
-import { SURAH_VERSES } from '../surah/constant/surah-constant';
-import { KEMENAG_PATH } from '../constant';
+import { SURAH_NUM_VERSES } from '../surah/constant/surah-constant';
+import { KEMENAG_PATH } from './util/constant';
+import surahVerses from './util/surah-verses';
 
 async function generate() {
   for (let i = 0; i < 114; i++) {
     const response = await kemenag.get<SurahResponse>(
-      KEMENAG_PATH.quranVerse(SURAH_VERSES[i], i + 1),
+      KEMENAG_PATH.quranVerse(SURAH_NUM_VERSES[i], i + 1),
     );
 
     if (!response.data || !response.data.data || !response.data.data.length) {
@@ -18,9 +18,9 @@ async function generate() {
 
     const _surah = response.data.data;
 
-    if (_surah.length !== SURAH_VERSES[i]) {
+    if (_surah.length !== SURAH_NUM_VERSES[i]) {
       throw new Error(
-        `Surah ${i} is supposed to have ${SURAH_VERSES[i]} verses`,
+        `Surah ${i} is supposed to have ${SURAH_NUM_VERSES[i]} verses`,
       );
     }
 

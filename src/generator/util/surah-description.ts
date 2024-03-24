@@ -5,7 +5,7 @@ import {
   SURAH_NAMES_LATIN,
   SURAH_CATEGORIES,
   SURAH_NAMES_TRANS_ID,
-} from './constant/surah-constant';
+} from '../../surah/constant/surah-constant';
 
 type SurahDescriptionFN = (num: number) => {
   number: number;

@@ -86,7 +86,11 @@ export default abstract class SurahAbstract {
     return this._tafsirs;
   }
 
-  get verses() {
-    return Object.keys(this._arabics);
+  get isMakkiyah() {
+    return this._category.toLowerCase() === 'Makkiyah'.toLowerCase();
+  }
+
+  get isMadaniyah() {
+    return this._category.toLowerCase() === 'Madaniyah'.toLowerCase();
   }
 }

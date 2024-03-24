@@ -1,6 +1,6 @@
 import { kemenag, SurahListResponse } from '../lib/axios-client';
 import writeFile from '../util/write-file';
-import { KEMENAG_PATH } from '../constant';
+import { KEMENAG_PATH } from './util/constant';
 
 async function generate() {
   const response = await kemenag.get<SurahListResponse>(

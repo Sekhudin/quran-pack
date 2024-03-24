@@ -1,5 +1,5 @@
 import surahDescription from './surah-description';
-import type { SurahVerses } from './types';
+import type { SurahVerses } from '../../surah/types';
 
 type SurahVersesFN = (
   num: number,

@@ -1,5 +1,5 @@
-import surahDescription from '../surah/surah-description';
 import writeFile from '../util/write-file';
+import surahDescription from './util/surah-description';
 
 function generate() {
   let _surahTemp: string = `export type SurahList = typeof surahList;\nexport const surahList = `;
