@@ -1,8 +1,8 @@
-import Quran from '../src';
+import * as Quran from '../src';
 
 describe("Qur'an getVerse(verseNumber) - surah Al-Fatihah", () => {
   test('Quran surah name al-fatihah verse 5 - ', () => {
-    const quran = Quran('Al-Fatihah');
+    const quran = Quran.surah('Al-Fatihah');
     const verse = quran.getVerse(5);
     expect(verse.arabic).toBe('اِيَّاكَ نَعْبُدُ وَاِيَّاكَ نَسْتَعِيْنُۗ');
     expect(verse.latin).toBe("Iyyāka na'budu wa iyyāka nasta'īn(u),");
@@ -15,7 +15,7 @@ describe("Qur'an getVerse(verseNumber) - surah Al-Fatihah", () => {
   });
 
   test('Quran surah number 1 verse 5', () => {
-    const quran = Quran(1);
+    const quran = Quran.surah(1);
     const verse = quran.getVerse(5);
     expect(verse.arabic).toBe('اِيَّاكَ نَعْبُدُ وَاِيَّاكَ نَسْتَعِيْنُۗ');
     expect(verse.latin).toBe("Iyyāka na'budu wa iyyāka nasta'īn(u),");

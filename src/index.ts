@@ -1,8 +1,9 @@
-import Surah, { SurahNameID, SurahNumber } from './surah/surah';
-import { surahList, SurahList } from './surah/source/surah-list';
+import { surahList } from './surah/source/surah-list';
+import { Surah, type SurahNameID, type SurahNumber } from './surah/surah';
 
-export { Surah, surahList };
-export type { SurahList, SurahNameID, SurahNumber };
-export default function quran(v: SurahNameID | SurahNumber): Surah {
+function surah(v: SurahNameID | SurahNumber): Surah {
   return new Surah(v);
 }
+
+export { surah, Surah, surahList };
+

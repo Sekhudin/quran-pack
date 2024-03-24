@@ -1,5 +1,5 @@
 import { kemenag, SurahResponse, TafsirResponse } from '../lib/axios-client';
-import writeFile from '../util/write-file';
+import { writeFile } from '../util/write-file';
 import { SURAH_NUM_VERSES } from '../surah/constant/surah-constant';
 import { KEMENAG_PATH } from './util/constant';
 import surahVerses from './util/surah-verses';

@@ -50,9 +50,9 @@ import { Surah } from 'quran-pack';
 #### Declaration instance
 
 ```typescript
-const quran = Quran('Al-Fatihah');
+const quran = Quran.surah('Al-Fatihah');
 // or
-const quran1 = Quran(1);
+const quran1 = Quran.surah(1);
 ```
 
 or
@@ -82,10 +82,15 @@ quran.translations; // object
 quran.tafsirs; // object
 ```
 
+#### Surah list
+```typescript
+Quran.surahList; // list of surah
+```
+
 #### Use the provided methods:
 
 ```typescript
-const quran = Quran('Al-Fatihah');
+const quran = Quran.surah('Al-Fatihah');
 const verse = quran.getVerse(5); // return object surah al-fatihah verse 5.
 const verses = quran.getVerses(1, 5); // return object surah alfatihah from verse 1 until verse 5, because the limit are 5 verses.
 ```

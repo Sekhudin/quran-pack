@@ -7,7 +7,7 @@ import path from 'path';
  * @param content string or array buffer
  * @param cb callback that contains error if process failed
  */
-export default function writeFile(
+export function writeFile(
   [dirname, filePath]: [string, string],
   content: string | NodeJS.ArrayBufferView,
   cb: (err: NodeJS.ErrnoException | null) => void,

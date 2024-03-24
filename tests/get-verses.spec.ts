@@ -1,8 +1,8 @@
-import Quran from '../src';
+import * as Quran from '../src';
 
 describe("Qur'an getVerses(startVerse, limitVerse) - surah Al-Fatihah", () => {
   test('qurah surah name al-fatihah verses 2 until 5, limit 4', () => {
-    const quran = Quran('Al-Fatihah');
+    const quran = Quran.surah('Al-Fatihah');
     const verses = quran.getVerses(2, 4);
 
     expect(verses.hasPrev).toBeTruthy();
@@ -38,7 +38,7 @@ describe("Qur'an getVerses(startVerse, limitVerse) - surah Al-Fatihah", () => {
   });
 
   test('qurah surah name al-fatihah verses 1 until 5, limit 5', () => {
-    const quran = Quran('Al-Fatihah');
+    const quran = Quran.surah('Al-Fatihah');
     const verses = quran.getVerses(1, 5);
 
     expect(verses.hasPrev).toBeFalsy();

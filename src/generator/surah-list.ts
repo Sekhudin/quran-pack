@@ -1,4 +1,4 @@
-import writeFile from '../util/write-file';
+import { writeFile } from '../util/write-file';
 import surahDescription from './util/surah-description';
 
 function generate() {

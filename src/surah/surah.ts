@@ -1,5 +1,5 @@
-import SurahAbstract from './surah-abstract';
-import surahBuilder from './surah-builder';
+import { SurahAbstract } from './surah-abstract';
+import { surahBuilder } from './surah-builder';
 import type {
   SurahNameID,
   SurahNumber,
@@ -10,7 +10,7 @@ import type {
 type ReturnGetVerses = SurahVerses & { hasNext: boolean; hasPrev: boolean };
 
 export type { SurahNameID, SurahNumber };
-export default class Surah extends SurahAbstract {
+export class Surah extends SurahAbstract {
   constructor(value: SurahNameID | number) {
     const { surah, verses } = surahBuilder(value);
     super({

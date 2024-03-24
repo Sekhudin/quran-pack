@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
-    "module": "commonjs",
-    "target": "es2016",
+    "module": "CommonJS",
+    "target": "ES6",
     "outDir": "./dist",
     "declaration": true,
     "esModuleInterop": true,
@@ -10,6 +10,6 @@
     "skipLibCheck": true,
     "resolveJsonModule": true
   },
-  "include": ["src/*.ts", "src/surah/source/*.json", "src/generator/util/constant.ts"],
+  "include": ["src/*.ts", "src/surah/source/*.json"],
   "exclude": ["node_modules", "src/libs/*", "src/generator/util/constant.ts"]
 }

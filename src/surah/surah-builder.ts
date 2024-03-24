@@ -1,5 +1,5 @@
-import readFile from '../util/read-file';
-import { surahList, SurahList } from './source/surah-list';
+import * as readFile from '../util/read-file';
+import { surahList, type SurahList } from './source/surah-list';
 import type { SurahNameID, SurahVerses } from './types';
 
 type SurahBuilderFN = (v: SurahNameID | number) => {
@@ -9,7 +9,7 @@ type SurahBuilderFN = (v: SurahNameID | number) => {
 
 const isValidSurahNumber = (v: number): boolean => v >= 1 && v <= 114;
 
-const surahBuilder: SurahBuilderFN = (value) => {
+export const surahBuilder: SurahBuilderFN = (value) => {
   let surah: SurahList[number] | null = null;
   if (typeof value === 'number') {
     if (!isValidSurahNumber(value)) throw new Error('Invalid surah number');
@@ -34,5 +34,3 @@ const surahBuilder: SurahBuilderFN = (value) => {
 
   return { surah, verses };
 };
-
-export default surahBuilder;

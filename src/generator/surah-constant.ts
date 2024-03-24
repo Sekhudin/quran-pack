@@ -1,5 +1,5 @@
 import { kemenag, SurahListResponse } from '../lib/axios-client';
-import writeFile from '../util/write-file';
+import { writeFile } from '../util/write-file';
 import { KEMENAG_PATH } from './util/constant';
 
 async function generate() {

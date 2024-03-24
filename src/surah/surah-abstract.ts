@@ -14,7 +14,7 @@ type SurahConstructor = {
   tafsirs: SurahVerses['tafsirs'];
 };
 
-export default abstract class SurahAbstract {
+export abstract class SurahAbstract {
   private _number: number;
   private _name: string;
   private _name_latin: string;
