@@ -96,7 +96,7 @@ const verse = quran.getVerse(5); // return object surah al-fatihah verse 5.
 const verses = quran.getVerses(1, 3); // return object surah alfatihah from verse 1 until verse 3, because the limit are 3 verses.
 ```
 
-Result `Quran.surah('Al-Fatihah').getVesrse(5);`, its mean Al-Fatihah verse 5.
+Result `Quran.surah('Al-Fatihah').getVerse(5);`, its mean Al-Fatihah verse 5.
 
 ```typescript
 {
@@ -113,7 +113,7 @@ Result `Quran.surah('Al-Fatihah').getVesrse(5);`, its mean Al-Fatihah verse 5.
 }
 ```
 
-Result `Quran.surah('Al-Fatihah').getVesrses(1, 3);`, Al-Fatihah verses 1 - 3.
+Result `Quran.surah('Al-Fatihah').getVerses(1, 3);`, its mean Al-Fatihah verses 1 - 3.
 
 ```typescript
 {
@@ -148,7 +148,7 @@ Result `Quran.surah('Al-Fatihah').getVesrses(1, 3);`, Al-Fatihah verses 1 - 3.
 }
 ```
 
-Result `Quran.listSurah`.
+Result `Quran.surahList`.
 
 ```typescript
 [
