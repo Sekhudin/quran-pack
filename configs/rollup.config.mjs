@@ -12,13 +12,13 @@ export default [
         sourcemap: false,
         exports: "named",
       },
-      {
-        file: "dist/dist.umd.js",
-        name: "Zod",
-        format: "umd",
-        sourcemap: false,
-        exports: "named",
-      },
+      // {
+      //   file: "dist/dist.umd.js",
+      //   name: "quran",
+      //   format: "umd",
+      //   sourcemap: false,
+      //   exports: "named",
+      // },
     ],
     plugins: [
       typescript({

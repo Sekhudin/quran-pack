@@ -1,6 +1,6 @@
 {
   "name": "quran-pack",
-  "version": "0.0.9",
+  "version": "1.0.0",
   "description": "Quran package is sourced from the website of the Ministry of Religion of the Republic of Indonesia.",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -28,7 +28,6 @@
     "build:types": "tsc -p ./configs/tsconfig.types.json",
     "build:test": "tsc -p ./configs/tsconfig.test.json",
     "build": "npm run clean && npm run build:esm && npm run build:cjs && npm run format:build",
-    "pack": "pack --dry-run",
     "test": "jest"
   },
   "keywords": [
