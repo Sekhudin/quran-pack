@@ -1,9 +1,17 @@
-import { surahList } from './surah/source/surah-list';
-import { Surah, type SurahNameID, type SurahNumber } from './surah/surah';
+import {
+  Surah,
+  SURAH_LIST,
+  type SurahNameID,
+  type SurahNumber,
+  type SurahCategory,
+} from './surah';
 
-function surah(v: SurahNameID | SurahNumber): Surah {
-  return new Surah(v);
+function surah(value: SurahNameID | SurahNumber) {
+  return new Surah(value);
 }
+
+const surahList = SURAH_LIST;
 
 export { surah, Surah, surahList };
 
+export type { SurahNameID, SurahNumber, SurahCategory };

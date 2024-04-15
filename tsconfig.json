@@ -1,15 +1,6 @@
 {
+  "extends": "./configs/tsconfig.base.json",
   "compilerOptions": {
-    "module": "CommonJS",
-    "target": "ES6",
-    "outDir": "./dist",
-    "declaration": true,
-    "esModuleInterop": true,
-    "forceConsistentCasingInFileNames": true,
-    "strict": true,
-    "skipLibCheck": true,
-    "resolveJsonModule": true
-  },
-  "include": ["src/*.ts", "src/surah/source/*.json"],
-  "exclude": ["node_modules", "src/libs/*", "src/generator/util/constant.ts"]
+    "outDir": "./dist"
+  }
 }

@@ -1,5 +1,7 @@
 import fs from 'fs';
 import path from 'path';
+import { SURAH_LIST, SURAH_NUM_VERSES } from '../../surah/source/constant';
+import type { SurahVerses } from '../../surah/types';
 
 /**
  * Asynchronous function to write file
@@ -19,3 +21,19 @@ export function writeFile(
   }
   fs.writeFile(filePath, content, cb);
 }
+
+export const surahVerses = (
+  num: number,
+  v: SurahVerses,
+): (typeof SURAH_LIST)[number] & SurahVerses => {
+  // num start from 0
+  const descriptions = SURAH_LIST[num];
+  return { ...descriptions, ...v };
+};
+
+/**
+ *
+ * @param v number | start from 0
+ * @returns num of verses
+ */
+export const getNumOfVerses = (v: number) => SURAH_NUM_VERSES[v];

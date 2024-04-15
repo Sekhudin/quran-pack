@@ -39,7 +39,9 @@ describe("Qur'an getVerses(startVerse, limitVerse) - surah Al-Fatihah", () => {
 
   test('qurah surah name al-fatihah verses 1 until 5, limit 5', () => {
     const quran = Quran.surah('Al-Fatihah');
-    const verses = quran.getVerses(1, 5);
+    const verses = Quran.surah('Al-Fatihah').getVerses(1, 5);
+
+    console.log('object :>> ', verses);
 
     expect(verses.hasPrev).toBeFalsy();
     expect(verses.hasNext).toBeTruthy();

@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "lib": ["ES5", "ES6", "ES7", "ESNext", "DOM"],
+    "target": "es2018",
+    "moduleResolution": "Node",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "declaration": true,
+    "resolveJsonModule": true
+  },
+  "include": ["../src/**/*"],
+  "exclude": ["../node_modules", "../src/generator/*", "../src/generator/**/*"]
+}

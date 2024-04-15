@@ -1,25 +1,21 @@
-import { SurahAbstract } from './surah-abstract';
-import { surahBuilder } from './surah-builder';
+import { SurahAbstract } from './abstract';
+import { surahBuilder } from './builder';
 import type {
   SurahNameID,
   SurahNumber,
   SurahVerse,
   SurahVerses,
 } from './types';
+export * from './source/constant';
+export type * from './types';
 
 type ReturnGetVerses = SurahVerses & { hasNext: boolean; hasPrev: boolean };
 
 export type { SurahNameID, SurahNumber };
 export class Surah extends SurahAbstract {
   constructor(value: SurahNameID | number) {
-    const { surah, verses } = surahBuilder(value);
-    super({
-      arabics: verses.arabics,
-      latins: verses.latins,
-      translations: verses.translations,
-      tafsirs: verses.tafsirs,
-      ...surah,
-    });
+    const surah = surahBuilder(value);
+    super(surah);
   }
 
   private isValidVerse(verse: number): boolean {

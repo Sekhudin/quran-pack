@@ -1,7 +1,6 @@
 ## Quran-pack
 
 Quran package is sourced from the website of the Ministry of Religion of the Republic of Indonesia.
-This package uses the nodejs fs package so it can only be used on nodejs.
 
 ### Installation
 
@@ -38,7 +37,7 @@ npm i quran-pack
 Import the package into your js/ts file with default import:
 
 ```typescript
-import Quran from 'quran-pack';
+import * as Quran from 'quran-pack';
 ```
 
 Import the package into your js/ts file with named import:

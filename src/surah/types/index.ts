@@ -1,4 +1,4 @@
-export type * from './surah-constant';
+export type * from '../source/types';
 
 type Lang = 'id';
 type TafsirKey = 'kemenag';

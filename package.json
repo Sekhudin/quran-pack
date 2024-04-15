@@ -1,16 +1,34 @@
 {
   "name": "quran-pack",
-  "version": "0.0.7",
+  "version": "0.0.9",
   "description": "Quran package is sourced from the website of the Ministry of Religion of the Republic of Indonesia.",
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
-  "files": ["dist"],
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "files": ["./dist"],
+  "sideEffects": false,
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "require": "./dist/index.js",
+      "import": "./dist/index.mjs"
+    },
+    "./surah/*": "./dist/surah/source/*.json",
+    "./constant": "./dist/surah/source/constant.js",
+    "./types": "./dist/surah/types/index.d.ts",
+    "./package.json": "./package.json"
+  },
   "scripts": {
     "init": "rm -rf .git && git init",
     "format:build": "prettier --write \"./dist/**/*.{js,ts,json}\"",
     "format:dev": "prettier --write \"./src/**/*.{js,ts,json}\"",
-    "clean": "rimraf dist",
-    "build": "npm run clean && tsc && npm run format:build",
+    "clean": "rimraf dist && rimraf __buildtest__",
+    "build:esm": "rollup --config ./configs/rollup.config.mjs",
+    "build:cjs": "tsc -p ./configs/tsconfig.cjs.json",
+    "build:types": "tsc -p ./configs/tsconfig.types.json",
+    "build:test": "tsc -p ./configs/tsconfig.test.json",
+    "build": "npm run clean && npm run build:esm && npm run build:cjs && npm run format:build",
+    "pack": "pack --dry-run",
     "test": "jest"
   },
   "keywords": [
@@ -38,6 +56,8 @@
   "author": "Sekhudin",
   "license": "ISC",
   "devDependencies": {
+    "@rollup/plugin-json": "^6.1.0",
+    "@rollup/plugin-typescript": "^11.1.6",
     "@types/jest": "^29.5.12",
     "@typescript-eslint/eslint-plugin": "^7.2.0",
     "@typescript-eslint/parser": "^7.2.0",
@@ -50,6 +70,7 @@
     "rimraf": "^5.0.5",
     "ts-jest": "^29.1.2",
     "tsx": "^4.7.1",
-    "typescript": "^5.4.2"
+    "typescript": "^5.4.2",
+    "vite": "^5.2.8"
   }
 }
